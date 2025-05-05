@@ -1,0 +1,50 @@
+[
+  {
+    "book_id": "book_16",
+    "title": "礼仪手册",
+    "summary": "礼仪(Liturgia)是基督的工程，也是教会的行动，礼仪实现并显示教会是天主和人类在基督内共融的有形标记。礼仪是教会行动所趋向的顶峰，同时也是教会一切力量的泉源",
+    "update": "2024-05-31",
+    "cover": "imgs/1669163932351.jpg@!w400h560",
+    "index_path": "/index/book_16_index.json"
+  },
+  {
+    "book_id": "book_3",
+    "title": "常用经文",
+    "summary": "周至教区常用经文",
+    "update": "2024-06-29",
+    "cover": "imgs/1710432971300.jpg@!w400h560",
+    "index_path": "/index/book_3_index.json"
+  },
+  {
+    "book_id": "book_4",
+    "title": "公私诵",
+    "summary": "《公私诵》经本，自一九八七年编排首版后，满足了长期以来教友们的基本需要。根据教会“梵二会议”精神的要求，一九九三年对《公私诵》中的经文重新归类，并将不常用的经文删掉，又增加了新的白话经文，如教会早祷经文、晚祷经文、玫瑰经、苦路经和附弥撒常用经文等。随着社会的发展、教会的需要和教友的要求，再版《公私诵》已势在必行。",
+    "update": "2025-01-22",
+    "cover": "imgs/1710430721158.jpg@!w400h560",
+    "index_path": "/index/book_4_index.json"
+  },
+  {
+    "book_id": "book_6",
+    "title": "圣月默想",
+    "summary": "天主教圣月阅读",
+    "update": "2024-05-31",
+    "cover": "imgs/1669450567317.jpg@!w400h560",
+    "index_path": "/index/book_6_index.json"
+  },
+  {
+    "book_id": "book_7",
+    "title": "《天韵》",
+    "summary": "天主教三原教区歌本《天韵》",
+    "update": "2025-04-16",
+    "cover": "imgs/1670287523661.jpg@!w400h560",
+    "index_path": "/index/book_7_index.json"
+  },
+  {
+    "book_id": "book_8",
+    "title": "教友生活",
+    "summary": "摘自《公私诵》的教友生活须知",
+    "update": "2024-05-31",
+    "cover": "imgs/1669450733119.jpg@!w400h560",
+    "index_path": "/index/book_8_index.json"
+  }
+]

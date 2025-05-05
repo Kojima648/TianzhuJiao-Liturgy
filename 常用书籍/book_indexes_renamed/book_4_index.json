@@ -1,0 +1,684 @@
+{
+  "book_id": "book_4",
+  "title": "公私诵",
+  "update": "2025-01-22",
+  "summary": "《公私诵》经本，自一九八七年编排首版后，满足了长期以来教友们的基本需要。根据教会“梵二会议”精神的要求，一九九三年对《公私诵》中的经文重新归类，并将不常用的经文删掉，又增加了新的白话经文，如教会早祷经文、晚祷经文、玫瑰经、苦路经和附弥撒常用经文等。随着社会的发展、教会的需要和教友的要求，再版《公私诵》已势在必行。",
+  "cover": "imgs/1710430721158.jpg@!w400h560",
+  "sections": [
+    {
+      "title": "前言",
+      "category": "前言",
+      "path": "/markdown/book_4/001_前言.md"
+    },
+    {
+      "title": "教会早祷经文",
+      "category": "前言",
+      "path": "/markdown/book_4/002_教会早祷经文.md"
+    },
+    {
+      "title": "教会晚祷经文",
+      "category": "前言",
+      "path": "/markdown/book_4/003_教会晚祷经文.md"
+    },
+    {
+      "title": "弥撒前常用经文",
+      "category": "前言",
+      "path": "/markdown/book_4/004_弥撒前常用经文.md"
+    },
+    {
+      "title": "弥撒后常用经文",
+      "category": "前言",
+      "path": "/markdown/book_4/005_弥撒后常用经文.md"
+    },
+    {
+      "title": "主日午时经",
+      "category": "前言",
+      "path": "/markdown/book_4/006_主日午时经.md"
+    },
+    {
+      "title": "玫瑰经文——欢喜",
+      "category": "玫瑰经文",
+      "path": "/markdown/book_4/007_玫瑰经文——欢喜.md"
+    },
+    {
+      "title": "玫瑰经文——痛苦",
+      "category": "玫瑰经文",
+      "path": "/markdown/book_4/008_玫瑰经文——痛苦.md"
+    },
+    {
+      "title": "玫瑰经文——荣福",
+      "category": "玫瑰经文",
+      "path": "/markdown/book_4/009_玫瑰经文——荣福.md"
+    },
+    {
+      "title": "玫瑰经文——光明",
+      "category": "玫瑰经文",
+      "path": "/markdown/book_4/010_玫瑰经文——光明.md"
+    },
+    {
+      "title": "圣母德叙祷文",
+      "category": "玫瑰经文",
+      "path": "/markdown/book_4/011_圣母德叙祷文.md"
+    },
+    {
+      "title": "圣经玫瑰经文——欢喜",
+      "category": "玫瑰经文",
+      "path": "/markdown/book_4/012_圣经玫瑰经文——欢喜.md"
+    },
+    {
+      "title": "圣经玫瑰经文——痛苦",
+      "category": "玫瑰经文",
+      "path": "/markdown/book_4/013_圣经玫瑰经文——痛苦.md"
+    },
+    {
+      "title": "圣经玫瑰经文——荣福",
+      "category": "玫瑰经文",
+      "path": "/markdown/book_4/014_圣经玫瑰经文——荣福.md"
+    },
+    {
+      "title": "圣经玫瑰经文——光明",
+      "category": "玫瑰经文",
+      "path": "/markdown/book_4/015_圣经玫瑰经文——光明.md"
+    },
+    {
+      "title": "苦路经文",
+      "category": "苦路祈祷",
+      "path": "/markdown/book_4/016_苦路经文.md"
+    },
+    {
+      "title": "新苦路经",
+      "category": "苦路祈祷",
+      "path": "/markdown/book_4/017_新苦路经.md"
+    },
+    {
+      "title": "感谢天主诵",
+      "category": "一般常用经文",
+      "path": "/markdown/book_4/018_感谢天主诵.md"
+    },
+    {
+      "title": "奉献中国於圣母经",
+      "category": "一般常用经文",
+      "path": "/markdown/book_4/019_奉献中国於圣母经.md"
+    },
+    {
+      "title": "五谢礼",
+      "category": "一般常用经文",
+      "path": "/markdown/book_4/020_五谢礼.md"
+    },
+    {
+      "title": "饭前、饭后经",
+      "category": "一般常用经文",
+      "path": "/markdown/book_4/021_饭前、饭后经.md"
+    },
+    {
+      "title": "求为炼处凡诸信者灵魂诵",
+      "category": "一般常用经文",
+      "path": "/markdown/book_4/022_求为炼处凡诸信者灵魂诵.md"
+    },
+    {
+      "title": "圣心短诵",
+      "category": "一般常用经文",
+      "path": "/markdown/book_4/023_圣心短诵.md"
+    },
+    {
+      "title": "将临期说明",
+      "category": "将临期",
+      "path": "/markdown/book_4/024_将临期说明.md"
+    },
+    {
+      "title": "将临期祝文",
+      "category": "将临期",
+      "path": "/markdown/book_4/025_将临期祝文.md"
+    },
+    {
+      "title": "圣诞前九日敬礼",
+      "category": "将临期",
+      "path": "/markdown/book_4/026_圣诞前九日敬礼.md"
+    },
+    {
+      "title": "子时祝文",
+      "category": "耶稣圣诞",
+      "path": "/markdown/book_4/027_子时祝文.md"
+    },
+    {
+      "title": "昧爽祝文",
+      "category": "耶稣圣诞",
+      "path": "/markdown/book_4/028_昧爽祝文.md"
+    },
+    {
+      "title": "天明祝文",
+      "category": "耶稣圣诞",
+      "path": "/markdown/book_4/029_天明祝文.md"
+    },
+    {
+      "title": "立耶稣圣名",
+      "category": "耶稣圣诞",
+      "path": "/markdown/book_4/030_立耶稣圣名.md"
+    },
+    {
+      "title": "三王来朝祝文",
+      "category": "耶稣圣诞",
+      "path": "/markdown/book_4/031_三王来朝祝文.md"
+    },
+    {
+      "title": "圣灰礼仪祝文",
+      "category": "四旬期",
+      "path": "/markdown/book_4/032_圣灰礼仪祝文.md"
+    },
+    {
+      "title": "五伤经",
+      "category": "四旬期",
+      "path": "/markdown/book_4/033_五伤经.md"
+    },
+    {
+      "title": "向圣十字架诵",
+      "category": "四旬期",
+      "path": "/markdown/book_4/034_向圣十字架诵.md"
+    },
+    {
+      "title": "感谢耶稣为我代受艰难",
+      "category": "四旬期",
+      "path": "/markdown/book_4/035_感谢耶稣为我代受艰难.md"
+    },
+    {
+      "title": "圣枝礼仪祝文",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/036_圣枝礼仪祝文.md"
+    },
+    {
+      "title": "耶稣复活祝文",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/037_耶稣复活祝文.md"
+    },
+    {
+      "title": "祈求圣教大行祝文",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/038_祈求圣教大行祝文.md"
+    },
+    {
+      "title": "耶稣升天祝文",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/039_耶稣升天祝文.md"
+    },
+    {
+      "title": "圣神降临前九日敬礼",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/040_圣神降临前九日敬礼.md"
+    },
+    {
+      "title": "圣神降临祝文",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/041_圣神降临祝文.md"
+    },
+    {
+      "title": "耶稣至圣体",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/042_耶稣至圣体.md"
+    },
+    {
+      "title": "耶稣建定圣体大礼祝文",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/043_耶稣建定圣体大礼祝文.md"
+    },
+    {
+      "title": "耶稣圣体瞻礼祝文",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/044_耶稣圣体瞻礼祝文.md"
+    },
+    {
+      "title": "耶稣受难",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/045_耶稣受难.md"
+    },
+    {
+      "title": "圣人列品祷文",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/046_圣人列品祷文.md"
+    },
+    {
+      "title": "耶稣复活第一副瞻礼",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/047_耶稣复活第一副瞻礼.md"
+    },
+    {
+      "title": "耶稣复活第二副瞻礼",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/048_耶稣复活第二副瞻礼.md"
+    },
+    {
+      "title": "寻获十字圣架",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/049_寻获十字圣架.md"
+    },
+    {
+      "title": "耶稣君王祝文",
+      "category": "苦难主日",
+      "path": "/markdown/book_4/050_耶稣君王祝文.md"
+    },
+    {
+      "title": "奉献于耶稣圣心祝文",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/051_奉献于耶稣圣心祝文.md"
+    },
+    {
+      "title": "耶稣圣心祝文",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/052_耶稣圣心祝文.md"
+    },
+    {
+      "title": "恭献自己之心求合于主心",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/053_恭献自己之心求合于主心.md"
+    },
+    {
+      "title": "耶稣圣心祷文",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/054_耶稣圣心祷文.md"
+    },
+    {
+      "title": "仰赖圣心求救炼灵诵",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/055_仰赖圣心求救炼灵诵.md"
+    },
+    {
+      "title": "奉献耶稣圣心诵",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/056_奉献耶稣圣心诵.md"
+    },
+    {
+      "title": "奉献全家诵",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/057_奉献全家诵.md"
+    },
+    {
+      "title": "补辱诵",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/058_补辱诵.md"
+    },
+    {
+      "title": "耶稣圣名祷文",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/059_耶稣圣名祷文.md"
+    },
+    {
+      "title": "求天主圣三诵",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/060_求天主圣三诵.md"
+    },
+    {
+      "title": "举扬圣体、圣血祝文",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/061_举扬圣体、圣血祝文.md"
+    },
+    {
+      "title": "求恩祝文",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/062_求恩祝文.md"
+    },
+    {
+      "title": "其他敬礼经文",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/063_其他敬礼经文.md"
+    },
+    {
+      "title": "向耶稣圣灵诵",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/064_向耶稣圣灵诵.md"
+    },
+    {
+      "title": "（首瞻礼六）特敬耶稣圣心",
+      "category": "敬礼耶稣圣心",
+      "path": "/markdown/book_4/065_（首瞻礼六）特敬耶稣圣心.md"
+    },
+    {
+      "title": "敬礼圣母、圣若瑟",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/066_敬礼圣母、圣若瑟.md"
+    },
+    {
+      "title": "圣家祝文",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/067_圣家祝文.md"
+    },
+    {
+      "title": "向圣母求洁德诵",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/068_向圣母求洁德诵.md"
+    },
+    {
+      "title": "圣母领报",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/069_圣母领报.md"
+    },
+    {
+      "title": "拜求圣母为死侯经",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/070_拜求圣母为死侯经.md"
+    },
+    {
+      "title": "求赐善终经",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/071_求赐善终经.md"
+    },
+    {
+      "title": "圣母升天前九日（8月6～14）",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/072_圣母升天前九日（8月6～14）.md"
+    },
+    {
+      "title": "始胎无原罪圣母（12月8日）",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/073_始胎无原罪圣母（12月8日）.md"
+    },
+    {
+      "title": "圣母升天",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/074_圣母升天.md"
+    },
+    {
+      "title": "圣母圣诞",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/075_圣母圣诞.md"
+    },
+    {
+      "title": "圣母无原罪始孕母胎",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/076_圣母无原罪始孕母胎.md"
+    },
+    {
+      "title": "圣母七苦",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/077_圣母七苦.md"
+    },
+    {
+      "title": "特敬圣母  瞻礼七（首星期六）",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/078_特敬圣母_瞻礼七（首星期六）.md"
+    },
+    {
+      "title": "圣母花冠经",
+      "category": "敬礼圣母",
+      "path": "/markdown/book_4/079_圣母花冠经.md"
+    },
+    {
+      "title": "三月圣若瑟月",
+      "category": "敬礼圣若瑟",
+      "path": "/markdown/book_4/080_三月圣若瑟月.md"
+    },
+    {
+      "title": "求圣若瑟为中国主保祝文",
+      "category": "敬礼圣若瑟",
+      "path": "/markdown/book_4/081_求圣若瑟为中国主保祝文.md"
+    },
+    {
+      "title": "圣若瑟祷文",
+      "category": "敬礼圣若瑟",
+      "path": "/markdown/book_4/082_圣若瑟祷文.md"
+    },
+    {
+      "title": "向圣若瑟诵",
+      "category": "敬礼圣若瑟",
+      "path": "/markdown/book_4/083_向圣若瑟诵.md"
+    },
+    {
+      "title": "圣若瑟瞻礼祝文",
+      "category": "敬礼圣若瑟",
+      "path": "/markdown/book_4/084_圣若瑟瞻礼祝文.md"
+    },
+    {
+      "title": "若瑟劳工主保祝文",
+      "category": "敬礼圣若瑟",
+      "path": "/markdown/book_4/085_若瑟劳工主保祝文.md"
+    },
+    {
+      "title": "圣若瑟七苦七乐经",
+      "category": "敬礼圣若瑟",
+      "path": "/markdown/book_4/086_圣若瑟七苦七乐经.md"
+    },
+    {
+      "title": "求圣若瑟为善终诵",
+      "category": "敬礼圣若瑟",
+      "path": "/markdown/book_4/087_求圣若瑟为善终诵.md"
+    },
+    {
+      "title": "十月天使月",
+      "category": "敬礼圣若瑟",
+      "path": "/markdown/book_4/088_十月天使月.md"
+    },
+    {
+      "title": "十一月炼灵月",
+      "category": "敬礼圣若瑟",
+      "path": "/markdown/book_4/089_十一月炼灵月.md"
+    },
+    {
+      "title": "婚配祝文",
+      "category": "敬礼圣若瑟",
+      "path": "/markdown/book_4/090_婚配祝文.md"
+    },
+    {
+      "title": "弥撒圣祭",
+      "category": "敬礼圣若瑟",
+      "path": "/markdown/book_4/091_弥撒圣祭.md"
+    },
+    {
+      "title": "圣若翰洗者赞",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/092_圣若翰洗者赞.md"
+    },
+    {
+      "title": "圣伯多禄圣保禄二位宗徒",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/093_圣伯多禄圣保禄二位宗徒.md"
+    },
+    {
+      "title": "圣斯德望首先致命",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/094_圣斯德望首先致命.md"
+    },
+    {
+      "title": "圣若望宗徒兼圣史",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/095_圣若望宗徒兼圣史.md"
+    },
+    {
+      "title": "诸圣婴孩致命",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/096_诸圣婴孩致命.md"
+    },
+    {
+      "title": "圣西尔物斯德肋",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/097_圣西尔物斯德肋.md"
+    },
+    {
+      "title": "圣玛弟亚宗徒",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/098_圣玛弟亚宗徒.md"
+    },
+    {
+      "title": "圣斐理伯圣雅各伯二位宗徒",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/099_圣斐理伯圣雅各伯二位宗徒.md"
+    },
+    {
+      "title": "圣雅各伯宗徒",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/100_圣雅各伯宗徒.md"
+    },
+    {
+      "title": "圣妇亚纳",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/101_圣妇亚纳.md"
+    },
+    {
+      "title": "圣老楞佐",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/102_圣老楞佐.md"
+    },
+    {
+      "title": "圣若亚敬",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/103_圣若亚敬.md"
+    },
+    {
+      "title": "圣巴尔多禄茂宗徒",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/104_圣巴尔多禄茂宗徒.md"
+    },
+    {
+      "title": "圣玛窦宗徒",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/105_圣玛窦宗徒.md"
+    },
+    {
+      "title": "中国殉道圣人",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/106_中国殉道圣人.md"
+    },
+    {
+      "title": "向为道致命圣人诵",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/107_向为道致命圣人诵.md"
+    },
+    {
+      "title": "圣女婴孩耶稣德肋撒祝文",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/108_圣女婴孩耶稣德肋撒祝文.md"
+    },
+    {
+      "title": "圣五伤方济各",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/109_圣五伤方济各.md"
+    },
+    {
+      "title": "圣西满圣达陡二位宗徒",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/110_圣西满圣达陡二位宗徒.md"
+    },
+    {
+      "title": "诸圣瞻礼",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/111_诸圣瞻礼.md"
+    },
+    {
+      "title": "诸圣祷文",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/112_诸圣祷文.md"
+    },
+    {
+      "title": "圣安德肋宗徒",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/113_圣安德肋宗徒.md"
+    },
+    {
+      "title": "圣方济各沙勿略",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/114_圣方济各沙勿略.md"
+    },
+    {
+      "title": "圣多默宗徒",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/115_圣多默宗徒.md"
+    },
+    {
+      "title": "圣安多尼赞",
+      "category": "圣人庆节",
+      "path": "/markdown/book_4/116_圣安多尼赞.md"
+    },
+    {
+      "title": "年终诵",
+      "category": "岁暮经文",
+      "path": "/markdown/book_4/117_年终诵.md"
+    },
+    {
+      "title": "新年诵",
+      "category": "岁暮经文",
+      "path": "/markdown/book_4/118_新年诵.md"
+    },
+    {
+      "title": "求免患难诵",
+      "category": "岁暮经文",
+      "path": "/markdown/book_4/119_求免患难诵.md"
+    },
+    {
+      "title": "求雨经",
+      "category": "岁暮经文",
+      "path": "/markdown/book_4/120_求雨经.md"
+    },
+    {
+      "title": "求晴诵",
+      "category": "岁暮经文",
+      "path": "/markdown/book_4/121_求晴诵.md"
+    },
+    {
+      "title": "遇雷霆暴风迅雨地震时诵",
+      "category": "岁暮经文",
+      "path": "/markdown/book_4/122_遇雷霆暴风迅雨地震时诵.md"
+    },
+    {
+      "title": "得恩感谢主",
+      "category": "岁暮经文",
+      "path": "/markdown/book_4/123_得恩感谢主.md"
+    },
+    {
+      "title": "助善终引",
+      "category": "瘗  茔",
+      "path": "/markdown/book_4/124_助善终引.md"
+    },
+    {
+      "title": "临终经",
+      "category": "瘗  茔",
+      "path": "/markdown/book_4/125_临终经.md"
+    },
+    {
+      "title": "终后经",
+      "category": "瘗  茔",
+      "path": "/markdown/book_4/126_终后经.md"
+    },
+    {
+      "title": "起棺经",
+      "category": "瘗  茔",
+      "path": "/markdown/book_4/127_起棺经.md"
+    },
+    {
+      "title": "为已亡孩童诵",
+      "category": "瘗  茔",
+      "path": "/markdown/book_4/128_为已亡孩童诵.md"
+    },
+    {
+      "title": "追思已亡诸信者",
+      "category": "瘗  茔",
+      "path": "/markdown/book_4/129_追思已亡诸信者.md"
+    },
+    {
+      "title": "为已亡教宗诵",
+      "category": "瘗  茔",
+      "path": "/markdown/book_4/130_为已亡教宗诵.md"
+    },
+    {
+      "title": "为已亡主教诵",
+      "category": "瘗  茔",
+      "path": "/markdown/book_4/131_为已亡主教诵.md"
+    },
+    {
+      "title": "为已亡司铎诵",
+      "category": "瘗  茔",
+      "path": "/markdown/book_4/132_为已亡司铎诵.md"
+    },
+    {
+      "title": "为在教新亡者诵",
+      "category": "瘗  茔",
+      "path": "/markdown/book_4/133_为在教新亡者诵.md"
+    },
+    {
+      "title": "圣殓布经",
+      "category": "瘗  茔",
+      "path": "/markdown/book_4/134_圣殓布经.md"
+    },
+    {
+      "title": "任选经文",
+      "category": "瘗  茔",
+      "path": "/markdown/book_4/135_任选经文.md"
+    }
+  ]
+}

@@ -1,0 +1,3149 @@
+{
+  "book_id": "book_7",
+  "title": "《天韵》",
+  "update": "2025-04-16",
+  "summary": "天主教三原教区歌本《天韵》",
+  "cover": "imgs/1670287523661.jpg@!w400h560",
+  "sections": [
+    {
+      "title": "洒圣水歌",
+      "category": "常用歌曲",
+      "path": "/markdown/book_7/001_洒圣水歌.md"
+    },
+    {
+      "title": "献礼弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/002_献礼弥撒.md"
+    },
+    {
+      "title": "中华合一弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/003_中华合一弥撒.md"
+    },
+    {
+      "title": "圣三弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/004_圣三弥撒.md"
+    },
+    {
+      "title": "全能弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/005_全能弥撒.md"
+    },
+    {
+      "title": "感谢弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/006_感谢弥撒.md"
+    },
+    {
+      "title": "圣神弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/007_圣神弥撒.md"
+    },
+    {
+      "title": "全能者弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/008_全能者弥撒.md"
+    },
+    {
+      "title": "信友弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/009_信友弥撒.md"
+    },
+    {
+      "title": "圣母弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/010_圣母弥撒.md"
+    },
+    {
+      "title": "天神弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/011_天神弥撒.md"
+    },
+    {
+      "title": "方济各弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/012_方济各弥撒.md"
+    },
+    {
+      "title": "康讴弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/013_康讴弥撒.md"
+    },
+    {
+      "title": "君王弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/014_君王弥撒.md"
+    },
+    {
+      "title": "诸圣弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/015_诸圣弥撒.md"
+    },
+    {
+      "title": "大众弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/016_大众弥撒.md"
+    },
+    {
+      "title": "若瑟弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/017_若瑟弥撒.md"
+    },
+    {
+      "title": "追思弥撒",
+      "category": "弥撒曲",
+      "path": "/markdown/book_7/018_追思弥撒.md"
+    },
+    {
+      "title": "请众教友可怜炼灵",
+      "category": "炼灵歌曲",
+      "path": "/markdown/book_7/019_请众教友可怜炼灵.md"
+    },
+    {
+      "title": "炼灵歌",
+      "category": "炼灵歌曲",
+      "path": "/markdown/book_7/020_炼灵歌.md"
+    },
+    {
+      "title": "安然上天堂",
+      "category": "炼灵歌曲",
+      "path": "/markdown/book_7/021_安然上天堂.md"
+    },
+    {
+      "title": "求救炼灵歌",
+      "category": "炼灵歌曲",
+      "path": "/markdown/book_7/022_求救炼灵歌.md"
+    },
+    {
+      "title": "天国在一起",
+      "category": "炼灵歌曲",
+      "path": "/markdown/book_7/023_天国在一起.md"
+    },
+    {
+      "title": "渴望天堂",
+      "category": "炼灵歌曲",
+      "path": "/markdown/book_7/024_渴望天堂.md"
+    },
+    {
+      "title": "求炼处诸信者灵魂",
+      "category": "炼灵歌曲",
+      "path": "/markdown/book_7/025_求炼处诸信者灵魂.md"
+    },
+    {
+      "title": "天堂再相聚",
+      "category": "炼灵歌曲",
+      "path": "/markdown/book_7/026_天堂再相聚.md"
+    },
+    {
+      "title": "告别",
+      "category": "炼灵歌曲",
+      "path": "/markdown/book_7/027_告别.md"
+    },
+    {
+      "title": "思念",
+      "category": "炼灵歌曲",
+      "path": "/markdown/book_7/028_思念.md"
+    },
+    {
+      "title": "要求你们热心教友",
+      "category": "炼灵歌曲",
+      "path": "/markdown/book_7/029_要求你们热心教友.md"
+    },
+    {
+      "title": "弥撒用曲",
+      "category": "将临期",
+      "path": "/markdown/book_7/030_弥撒用曲.md"
+    },
+    {
+      "title": "快来至圣默西亚",
+      "category": "将临期",
+      "path": "/markdown/book_7/031_快来至圣默西亚.md"
+    },
+    {
+      "title": "天主圣子恳请降临",
+      "category": "将临期",
+      "path": "/markdown/book_7/032_天主圣子恳请降临.md"
+    },
+    {
+      "title": "弥撒用曲",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/033_弥撒用曲.md"
+    },
+    {
+      "title": "圣诞",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/034_圣诞.md"
+    },
+    {
+      "title": "普天下大庆贺",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/035_普天下大庆贺.md"
+    },
+    {
+      "title": "朝拜圣婴",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/036_朝拜圣婴.md"
+    },
+    {
+      "title": "明亮晨星",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/037_明亮晨星.md"
+    },
+    {
+      "title": "请看请看小圣婴",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/038_请看请看小圣婴.md"
+    },
+    {
+      "title": "奇光灿烂",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/039_奇光灿烂.md"
+    },
+    {
+      "title": "马槽前",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/040_马槽前.md"
+    },
+    {
+      "title": "一个寒冷的冬夜",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/041_一个寒冷的冬夜.md"
+    },
+    {
+      "title": "平安夜",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/042_平安夜.md"
+    },
+    {
+      "title": "平安夜里真平安",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/043_平安夜里真平安.md"
+    },
+    {
+      "title": "新生王",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/044_新生王.md"
+    },
+    {
+      "title": "万籁静",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/045_万籁静.md"
+    },
+    {
+      "title": "圣诞佳音",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/046_圣诞佳音.md"
+    },
+    {
+      "title": "平安夜好平安",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/047_平安夜好平安.md"
+    },
+    {
+      "title": "白冷郊外",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/048_白冷郊外.md"
+    },
+    {
+      "title": "基督诞生为了爱",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/049_基督诞生为了爱.md"
+    },
+    {
+      "title": "普世欢腾",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/050_普世欢腾.md"
+    },
+    {
+      "title": "小耶稣已悄悄住在我心",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/051_小耶稣已悄悄住在我心.md"
+    },
+    {
+      "title": "圣夜静",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/052_圣夜静.md"
+    },
+    {
+      "title": "圣诞老人",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/053_圣诞老人.md"
+    },
+    {
+      "title": "无数天神空际临",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/054_无数天神空际临.md"
+    },
+    {
+      "title": "圣诞快乐（一）",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/055_圣诞快乐（一）.md"
+    },
+    {
+      "title": "小牧童之歌",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/056_小牧童之歌.md"
+    },
+    {
+      "title": "圣诞快乐（二）",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/057_圣诞快乐（二）.md"
+    },
+    {
+      "title": "有一件礼物",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/058_有一件礼物.md"
+    },
+    {
+      "title": "小天使",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/059_小天使.md"
+    },
+    {
+      "title": "圣诞到了",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/060_圣诞到了.md"
+    },
+    {
+      "title": "好小耶稣",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/061_好小耶稣.md"
+    },
+    {
+      "title": "小耶稣我爱你",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/062_小耶稣我爱你.md"
+    },
+    {
+      "title": "我们是一群小牧童",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/063_我们是一群小牧童.md"
+    },
+    {
+      "title": "我三人",
+      "category": "圣诞期",
+      "path": "/markdown/book_7/064_我三人.md"
+    },
+    {
+      "title": "弥撒用曲",
+      "category": "四旬期",
+      "path": "/markdown/book_7/065_弥撒用曲.md"
+    },
+    {
+      "title": "双膝跪到十字架前面",
+      "category": "四旬期",
+      "path": "/markdown/book_7/066_双膝跪到十字架前面.md"
+    },
+    {
+      "title": "仁爱救世天主",
+      "category": "四旬期",
+      "path": "/markdown/book_7/067_仁爱救世天主.md"
+    },
+    {
+      "title": "主的苦难",
+      "category": "四旬期",
+      "path": "/markdown/book_7/068_主的苦难.md"
+    },
+    {
+      "title": "这是一条十架道路",
+      "category": "四旬期",
+      "path": "/markdown/book_7/069_这是一条十架道路.md"
+    },
+    {
+      "title": "因你圣血身上流",
+      "category": "四旬期",
+      "path": "/markdown/book_7/070_因你圣血身上流.md"
+    },
+    {
+      "title": "我主，求你垂视",
+      "category": "四旬期",
+      "path": "/markdown/book_7/071_我主，求你垂视.md"
+    },
+    {
+      "title": "加尔瓦略山的爱",
+      "category": "四旬期",
+      "path": "/markdown/book_7/072_加尔瓦略山的爱.md"
+    },
+    {
+      "title": "加尔瓦略山的路",
+      "category": "四旬期",
+      "path": "/markdown/book_7/073_加尔瓦略山的路.md"
+    },
+    {
+      "title": "我跪在主面前",
+      "category": "四旬期",
+      "path": "/markdown/book_7/074_我跪在主面前.md"
+    },
+    {
+      "title": "十字架路通天家",
+      "category": "四旬期",
+      "path": "/markdown/book_7/075_十字架路通天家.md"
+    },
+    {
+      "title": "基督谴责",
+      "category": "四旬期",
+      "path": "/markdown/book_7/076_基督谴责.md"
+    },
+    {
+      "title": "十字架的救赎",
+      "category": "四旬期",
+      "path": "/markdown/book_7/077_十字架的救赎.md"
+    },
+    {
+      "title": "生命之路",
+      "category": "四旬期",
+      "path": "/markdown/book_7/078_生命之路.md"
+    },
+    {
+      "title": "圣枝主日",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/079_圣枝主日.md"
+    },
+    {
+      "title": "奥洒纳",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/080_奥洒纳.md"
+    },
+    {
+      "title": "圣周四—建立圣体大礼",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/081_圣周四—建立圣体大礼.md"
+    },
+    {
+      "title": "我给你们一条新诫命",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/082_我给你们一条新诫命.md"
+    },
+    {
+      "title": "革责玛尼庄园",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/083_革责玛尼庄园.md"
+    },
+    {
+      "title": "天主的眼睛",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/084_天主的眼睛.md"
+    },
+    {
+      "title": "圣周五—揭苦像时",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/085_圣周五—揭苦像时.md"
+    },
+    {
+      "title": "苦路歌",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/086_苦路歌.md"
+    },
+    {
+      "title": "有份爱",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/087_有份爱.md"
+    },
+    {
+      "title": "主的大爱",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/088_主的大爱.md"
+    },
+    {
+      "title": "耶稣你为了谁",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/089_耶稣你为了谁.md"
+    },
+    {
+      "title": "怎能叫我不悔改",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/090_怎能叫我不悔改.md"
+    },
+    {
+      "title": "望复活守夜礼",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/091_望复活守夜礼.md"
+    },
+    {
+      "title": "诸圣祷文",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/092_诸圣祷文.md"
+    },
+    {
+      "title": "主说，复活在他",
+      "category": "圣周礼仪",
+      "path": "/markdown/book_7/093_主说，复活在他.md"
+    },
+    {
+      "title": "弥撒用曲",
+      "category": "复活期",
+      "path": "/markdown/book_7/094_弥撒用曲.md"
+    },
+    {
+      "title": "天皇后喜乐",
+      "category": "复活期",
+      "path": "/markdown/book_7/095_天皇后喜乐.md"
+    },
+    {
+      "title": "上主因你圣复活",
+      "category": "复活期",
+      "path": "/markdown/book_7/096_上主因你圣复活.md"
+    },
+    {
+      "title": "复活赞歌",
+      "category": "复活期",
+      "path": "/markdown/book_7/097_复活赞歌.md"
+    },
+    {
+      "title": "永活的主",
+      "category": "复活期",
+      "path": "/markdown/book_7/098_永活的主.md"
+    },
+    {
+      "title": "耶稣复活墓已空",
+      "category": "复活期",
+      "path": "/markdown/book_7/099_耶稣复活墓已空.md"
+    },
+    {
+      "title": "唱阿肋路亚赞美主",
+      "category": "复活期",
+      "path": "/markdown/book_7/100_唱阿肋路亚赞美主.md"
+    },
+    {
+      "title": "阿肋路亚",
+      "category": "复活期",
+      "path": "/markdown/book_7/101_阿肋路亚.md"
+    },
+    {
+      "title": "复活之庆辰",
+      "category": "复活期",
+      "path": "/markdown/book_7/102_复活之庆辰.md"
+    },
+    {
+      "title": "上主已复活了",
+      "category": "复活期",
+      "path": "/markdown/book_7/103_上主已复活了.md"
+    },
+    {
+      "title": "我要为主活",
+      "category": "复活期",
+      "path": "/markdown/book_7/104_我要为主活.md"
+    },
+    {
+      "title": "主已复活众欢欣",
+      "category": "复活期",
+      "path": "/markdown/book_7/105_主已复活众欢欣.md"
+    },
+    {
+      "title": "普世喜洋洋",
+      "category": "复活期",
+      "path": "/markdown/book_7/106_普世喜洋洋.md"
+    },
+    {
+      "title": "耶稣凯旋复活",
+      "category": "复活期",
+      "path": "/markdown/book_7/107_耶稣凯旋复活.md"
+    },
+    {
+      "title": "耶稣已复活",
+      "category": "复活期",
+      "path": "/markdown/book_7/108_耶稣已复活.md"
+    },
+    {
+      "title": "复活的胜利",
+      "category": "复活期",
+      "path": "/markdown/book_7/109_复活的胜利.md"
+    },
+    {
+      "title": "耶稣是我生命的亮光",
+      "category": "复活期",
+      "path": "/markdown/book_7/110_耶稣是我生命的亮光.md"
+    },
+    {
+      "title": "复活这一天",
+      "category": "复活期",
+      "path": "/markdown/book_7/111_复活这一天.md"
+    },
+    {
+      "title": "黑暗即去光明已来",
+      "category": "复活期",
+      "path": "/markdown/book_7/112_黑暗即去光明已来.md"
+    },
+    {
+      "title": "复活佳节",
+      "category": "复活期",
+      "path": "/markdown/book_7/113_复活佳节.md"
+    },
+    {
+      "title": "耶稣升天(一)",
+      "category": "复活期",
+      "path": "/markdown/book_7/114_耶稣升天(一).md"
+    },
+    {
+      "title": "耶稣升天(二)",
+      "category": "复活期",
+      "path": "/markdown/book_7/115_耶稣升天(二).md"
+    },
+    {
+      "title": "进堂咏",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/116_进堂咏.md"
+    },
+    {
+      "title": "伏求圣神(一)",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/117_伏求圣神(一).md"
+    },
+    {
+      "title": "伏求圣神(二)",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/118_伏求圣神(二).md"
+    },
+    {
+      "title": "圣神带着你我走",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/119_圣神带着你我走.md"
+    },
+    {
+      "title": "求造物主圣神降临",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/120_求造物主圣神降临.md"
+    },
+    {
+      "title": "圣神的风圣神的雨",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/121_圣神的风圣神的雨.md"
+    },
+    {
+      "title": "圣神",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/122_圣神.md"
+    },
+    {
+      "title": "圣神降下来",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/123_圣神降下来.md"
+    },
+    {
+      "title": "我需要圣神",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/124_我需要圣神.md"
+    },
+    {
+      "title": "圣神的能力",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/125_圣神的能力.md"
+    },
+    {
+      "title": "从天降下来",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/126_从天降下来.md"
+    },
+    {
+      "title": "天主圣神请降临",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/127_天主圣神请降临.md"
+    },
+    {
+      "title": "圣神的果子",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/128_圣神的果子.md"
+    },
+    {
+      "title": "天主圣神",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/129_天主圣神.md"
+    },
+    {
+      "title": "圣神请降临",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/130_圣神请降临.md"
+    },
+    {
+      "title": "圣神请你降临",
+      "category": "圣神降临",
+      "path": "/markdown/book_7/131_圣神请你降临.md"
+    },
+    {
+      "title": "弥撒用曲",
+      "category": "常年期",
+      "path": "/markdown/book_7/132_弥撒用曲.md"
+    },
+    {
+      "title": "我们是教友",
+      "category": "常年期",
+      "path": "/markdown/book_7/133_我们是教友.md"
+    },
+    {
+      "title": "婚礼弥撒用曲",
+      "category": "常年期",
+      "path": "/markdown/book_7/134_婚礼弥撒用曲.md"
+    },
+    {
+      "title": "加纳婚宴",
+      "category": "常年期",
+      "path": "/markdown/book_7/135_加纳婚宴.md"
+    },
+    {
+      "title": "祝婚曲",
+      "category": "常年期",
+      "path": "/markdown/book_7/136_祝婚曲.md"
+    },
+    {
+      "title": "我们来到上主的圣殿",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/137_我们来到上主的圣殿.md"
+    },
+    {
+      "title": "我们在基督里",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/138_我们在基督里.md"
+    },
+    {
+      "title": "爱慕",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/139_爱慕.md"
+    },
+    {
+      "title": "与我同行",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/140_与我同行.md"
+    },
+    {
+      "title": "在基督的爱内",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/141_在基督的爱内.md"
+    },
+    {
+      "title": "今天今天",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/142_今天今天.md"
+    },
+    {
+      "title": "上主是我的牧者",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/143_上主是我的牧者.md"
+    },
+    {
+      "title": "我愿单属你",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/144_我愿单属你.md"
+    },
+    {
+      "title": "我的生命,吾主,献给你",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/145_我的生命,吾主,献给你.md"
+    },
+    {
+      "title": "敬献给你",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/146_敬献给你.md"
+    },
+    {
+      "title": "给予和参与",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/147_给予和参与.md"
+    },
+    {
+      "title": "奉献身心",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/148_奉献身心.md"
+    },
+    {
+      "title": "心愿",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/149_心愿.md"
+    },
+    {
+      "title": "请接受我们的礼品",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/150_请接受我们的礼品.md"
+    },
+    {
+      "title": "奉献（一）",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/151_奉献（一）.md"
+    },
+    {
+      "title": "向主献歌",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/152_向主献歌.md"
+    },
+    {
+      "title": "愿献我心",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/153_愿献我心.md"
+    },
+    {
+      "title": "为主火热",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/154_为主火热.md"
+    },
+    {
+      "title": "奉献所有",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/155_奉献所有.md"
+    },
+    {
+      "title": "奉献饼酒歌",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/156_奉献饼酒歌.md"
+    },
+    {
+      "title": "上主，万有的天主（一）",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/157_上主，万有的天主（一）.md"
+    },
+    {
+      "title": "上主万有的天主（二）",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/158_上主万有的天主（二）.md"
+    },
+    {
+      "title": "杯子",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/159_杯子.md"
+    },
+    {
+      "title": "仁慈的圣父(一)",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/160_仁慈的圣父(一).md"
+    },
+    {
+      "title": "仁慈的圣父(二)",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/161_仁慈的圣父(二).md"
+    },
+    {
+      "title": "圣山",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/162_圣山.md"
+    },
+    {
+      "title": "主住在哪里",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/163_主住在哪里.md"
+    },
+    {
+      "title": "你给的我都要你要的我都给",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/164_你给的我都要你要的我都给.md"
+    },
+    {
+      "title": "把心交给主",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/165_把心交给主.md"
+    },
+    {
+      "title": "信德的奥迹（四首）",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/166_信德的奥迹（四首）.md"
+    },
+    {
+      "title": "天主经（六首）",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/167_天主经（六首）.md"
+    },
+    {
+      "title": "天下万国（四首）",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/168_天下万国（四首）.md"
+    },
+    {
+      "title": "愿主祝福你",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/169_愿主祝福你.md"
+    },
+    {
+      "title": "祝你平安（两首）",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/170_祝你平安（两首）.md"
+    },
+    {
+      "title": "相约在主里",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/171_相约在主里.md"
+    },
+    {
+      "title": "祝平安曲",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/172_祝平安曲.md"
+    },
+    {
+      "title": "愿主的爱与你同在",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/173_愿主的爱与你同在.md"
+    },
+    {
+      "title": "我祝愿神的仆人",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/174_我祝愿神的仆人.md"
+    },
+    {
+      "title": "朋友我永远祝福你",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/175_朋友我永远祝福你.md"
+    },
+    {
+      "title": "在主里祝福你",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/176_在主里祝福你.md"
+    },
+    {
+      "title": "主！我当不起（两首）",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/177_主！我当不起（两首）.md"
+    },
+    {
+      "title": "耶稣我信你在圣体里",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/178_耶稣我信你在圣体里.md"
+    },
+    {
+      "title": "耶稣我为你而生活",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/179_耶稣我为你而生活.md"
+    },
+    {
+      "title": "分享同一的圣体",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/180_分享同一的圣体.md"
+    },
+    {
+      "title": "耶稣圣体我坚信你",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/181_耶稣圣体我坚信你.md"
+    },
+    {
+      "title": "渴望上主",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/182_渴望上主.md"
+    },
+    {
+      "title": "耶稣圣体",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/183_耶稣圣体.md"
+    },
+    {
+      "title": "我领主的体血时",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/184_我领主的体血时.md"
+    },
+    {
+      "title": "主的命令",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/185_主的命令.md"
+    },
+    {
+      "title": "拜圣体歌",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/186_拜圣体歌.md"
+    },
+    {
+      "title": "信、望、爱圣体",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/187_信、望、爱圣体.md"
+    },
+    {
+      "title": "因相爱别人认出我们是基督徒",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/188_因相爱别人认出我们是基督徒.md"
+    },
+    {
+      "title": "无始无终者天主",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/189_无始无终者天主.md"
+    },
+    {
+      "title": "颂扬圣体",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/190_颂扬圣体.md"
+    },
+    {
+      "title": "我需要你耶稣",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/191_我需要你耶稣.md"
+    },
+    {
+      "title": "领主后咏",
+      "category": "弥撒常用曲",
+      "path": "/markdown/book_7/192_领主后咏.md"
+    },
+    {
+      "title": "惟此圣体(四首)",
+      "category": "朝拜圣体",
+      "path": "/markdown/book_7/193_惟此圣体(四首).md"
+    },
+    {
+      "title": "皇皇圣体(六首)",
+      "category": "朝拜圣体",
+      "path": "/markdown/book_7/194_皇皇圣体(六首).md"
+    },
+    {
+      "title": "吁耶稣圣心",
+      "category": "朝拜圣体",
+      "path": "/markdown/book_7/195_吁耶稣圣心.md"
+    },
+    {
+      "title": "啊可爱的耶稣圣心",
+      "category": "朝拜圣体",
+      "path": "/markdown/book_7/196_啊可爱的耶稣圣心.md"
+    },
+    {
+      "title": "仁爱谦良至圣心",
+      "category": "朝拜圣体",
+      "path": "/markdown/book_7/197_仁爱谦良至圣心.md"
+    },
+    {
+      "title": "圣心爱我",
+      "category": "朝拜圣体",
+      "path": "/markdown/book_7/198_圣心爱我.md"
+    },
+    {
+      "title": "吾主圣心爱人情真",
+      "category": "朝拜圣体",
+      "path": "/markdown/book_7/199_吾主圣心爱人情真.md"
+    },
+    {
+      "title": "耶稣圣心钟爱吾人",
+      "category": "朝拜圣体",
+      "path": "/markdown/book_7/200_耶稣圣心钟爱吾人.md"
+    },
+    {
+      "title": "耶稣圣爱歌",
+      "category": "朝拜圣体",
+      "path": "/markdown/book_7/201_耶稣圣爱歌.md"
+    },
+    {
+      "title": "圣母升天进堂咏",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/202_圣母升天进堂咏.md"
+    },
+    {
+      "title": "圣母升天",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/203_圣母升天.md"
+    },
+    {
+      "title": "圣母经（三首）",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/204_圣母经（三首）.md"
+    },
+    {
+      "title": "无原罪赞",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/205_无原罪赞.md"
+    },
+    {
+      "title": "慈爱的妈妈",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/206_慈爱的妈妈.md"
+    },
+    {
+      "title": "中华圣母",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/207_中华圣母.md"
+    },
+    {
+      "title": "天堂的妈妈",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/208_天堂的妈妈.md"
+    },
+    {
+      "title": "求圣母保佑歌",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/209_求圣母保佑歌.md"
+    },
+    {
+      "title": "圣母颂",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/210_圣母颂.md"
+    },
+    {
+      "title": "奉献于玛利亚",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/211_奉献于玛利亚.md"
+    },
+    {
+      "title": "我的好妈妈",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/212_我的好妈妈.md"
+    },
+    {
+      "title": "圣母谢主曲",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/213_圣母谢主曲.md"
+    },
+    {
+      "title": "玛利亚之歌",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/214_玛利亚之歌.md"
+    },
+    {
+      "title": "圣母圣心赞",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/215_圣母圣心赞.md"
+    },
+    {
+      "title": "感谢母恩",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/216_感谢母恩.md"
+    },
+    {
+      "title": "奉献给圣母",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/217_奉献给圣母.md"
+    },
+    {
+      "title": "圣母七苦歌",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/218_圣母七苦歌.md"
+    },
+    {
+      "title": "全心爱玛利亚",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/219_全心爱玛利亚.md"
+    },
+    {
+      "title": "路德圣母歌",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/220_路德圣母歌.md"
+    },
+    {
+      "title": "遍地盛开五月花",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/221_遍地盛开五月花.md"
+    },
+    {
+      "title": "您多么美丽",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/222_您多么美丽.md"
+    },
+    {
+      "title": "万福至圣母后",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/223_万福至圣母后.md"
+    },
+    {
+      "title": "我母我的慈母",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/224_我母我的慈母.md"
+    },
+    {
+      "title": "母亲是多么的善良",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/225_母亲是多么的善良.md"
+    },
+    {
+      "title": "晚上问候圣母",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/226_晚上问候圣母.md"
+    },
+    {
+      "title": "慈母的心",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/227_慈母的心.md"
+    },
+    {
+      "title": "一声万福",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/228_一声万福.md"
+    },
+    {
+      "title": "尔纯全美丽玛利亚",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/229_尔纯全美丽玛利亚.md"
+    },
+    {
+      "title": "求圣母开心",
+      "category": "圣母歌曲",
+      "path": "/markdown/book_7/230_求圣母开心.md"
+    },
+    {
+      "title": "圣母净配圣若瑟",
+      "category": "圣人圣女歌曲",
+      "path": "/markdown/book_7/231_圣母净配圣若瑟.md"
+    },
+    {
+      "title": "荣福大圣若瑟",
+      "category": "圣人圣女歌曲",
+      "path": "/markdown/book_7/232_荣福大圣若瑟.md"
+    },
+    {
+      "title": "大圣若瑟，仁爱汪洋",
+      "category": "圣人圣女歌曲",
+      "path": "/markdown/book_7/233_大圣若瑟，仁爱汪洋.md"
+    },
+    {
+      "title": "大圣若瑟歌",
+      "category": "圣人圣女歌曲",
+      "path": "/markdown/book_7/234_大圣若瑟歌.md"
+    },
+    {
+      "title": "圣伯多禄圣保禄",
+      "category": "圣人圣女歌曲",
+      "path": "/markdown/book_7/235_圣伯多禄圣保禄.md"
+    },
+    {
+      "title": "圣女小德肋撒",
+      "category": "圣人圣女歌曲",
+      "path": "/markdown/book_7/236_圣女小德肋撒.md"
+    },
+    {
+      "title": "精修圣人安多尼",
+      "category": "圣人圣女歌曲",
+      "path": "/markdown/book_7/237_精修圣人安多尼.md"
+    },
+    {
+      "title": "五伤圣人方济各",
+      "category": "圣人圣女歌曲",
+      "path": "/markdown/book_7/238_五伤圣人方济各.md"
+    },
+    {
+      "title": "大圣类思",
+      "category": "圣人圣女歌曲",
+      "path": "/markdown/book_7/239_大圣类思.md"
+    },
+    {
+      "title": "伟大的教宗",
+      "category": "圣人圣女歌曲",
+      "path": "/markdown/book_7/240_伟大的教宗.md"
+    },
+    {
+      "title": "天神歌",
+      "category": "圣人圣女歌曲",
+      "path": "/markdown/book_7/241_天神歌.md"
+    },
+    {
+      "title": "护守天神可爱朋友",
+      "category": "圣人圣女歌曲",
+      "path": "/markdown/book_7/242_护守天神可爱朋友.md"
+    },
+    {
+      "title": "阿爸父",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/243_阿爸父.md"
+    },
+    {
+      "title": "爱的心",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/244_爱的心.md"
+    },
+    {
+      "title": "爱和原谅",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/245_爱和原谅.md"
+    },
+    {
+      "title": "爱的雕琢",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/246_爱的雕琢.md"
+    },
+    {
+      "title": "爱主一回",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/247_爱主一回.md"
+    },
+    {
+      "title": "爱在盛开",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/248_爱在盛开.md"
+    },
+    {
+      "title": "爱,我愿意",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/249_爱,我愿意.md"
+    },
+    {
+      "title": "爱的诫命",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/250_爱的诫命.md"
+    },
+    {
+      "title": "爱的满全",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/251_爱的满全.md"
+    },
+    {
+      "title": "爱的真谛",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/252_爱的真谛.md"
+    },
+    {
+      "title": "爱的明灯",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/253_爱的明灯.md"
+    },
+    {
+      "title": "爱的肋骨",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/254_爱的肋骨.md"
+    },
+    {
+      "title": "爱心播世界",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/255_爱心播世界.md"
+    },
+    {
+      "title": "爱主爱不够",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/256_爱主爱不够.md"
+    },
+    {
+      "title": "爱到顺服爱到死",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/257_爱到顺服爱到死.md"
+    },
+    {
+      "title": "爱  喜乐  生命",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/258_爱_喜乐_生命.md"
+    },
+    {
+      "title": "爱使我们相聚在一起",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/259_爱使我们相聚在一起.md"
+    },
+    {
+      "title": "懊悔的心",
+      "category": "教友生活A",
+      "path": "/markdown/book_7/260_懊悔的心.md"
+    },
+    {
+      "title": "本分歌",
+      "category": "B",
+      "path": "/markdown/book_7/261_本分歌.md"
+    },
+    {
+      "title": "宝贵十架",
+      "category": "B",
+      "path": "/markdown/book_7/262_宝贵十架.md"
+    },
+    {
+      "title": "不变的爱",
+      "category": "B",
+      "path": "/markdown/book_7/263_不变的爱.md"
+    },
+    {
+      "title": "不能忘记",
+      "category": "B",
+      "path": "/markdown/book_7/264_不能忘记.md"
+    },
+    {
+      "title": "不要惧怕",
+      "category": "B",
+      "path": "/markdown/book_7/265_不要惧怕.md"
+    },
+    {
+      "title": "不要只风闻有你",
+      "category": "B",
+      "path": "/markdown/book_7/266_不要只风闻有你.md"
+    },
+    {
+      "title": "不变的追求",
+      "category": "B",
+      "path": "/markdown/book_7/267_不变的追求.md"
+    },
+    {
+      "title": "不一样的爱",
+      "category": "B",
+      "path": "/markdown/book_7/268_不一样的爱.md"
+    },
+    {
+      "title": "把你的人生交给主",
+      "category": "B",
+      "path": "/markdown/book_7/269_把你的人生交给主.md"
+    },
+    {
+      "title": "背十字架",
+      "category": "B",
+      "path": "/markdown/book_7/270_背十字架.md"
+    },
+    {
+      "title": "背道的儿女啊，回来吧",
+      "category": "B",
+      "path": "/markdown/book_7/271_背道的儿女啊，回来吧.md"
+    },
+    {
+      "title": "传福音",
+      "category": "C",
+      "path": "/markdown/book_7/272_传福音.md"
+    },
+    {
+      "title": "传扬福音",
+      "category": "C",
+      "path": "/markdown/book_7/273_传扬福音.md"
+    },
+    {
+      "title": "常常喜乐",
+      "category": "C",
+      "path": "/markdown/book_7/274_常常喜乐.md"
+    },
+    {
+      "title": "赐福与你",
+      "category": "C",
+      "path": "/markdown/book_7/275_赐福与你.md"
+    },
+    {
+      "title": "彩虹属于你",
+      "category": "C",
+      "path": "/markdown/book_7/276_彩虹属于你.md"
+    },
+    {
+      "title": "灯台",
+      "category": "D",
+      "path": "/markdown/book_7/277_灯台.md"
+    },
+    {
+      "title": "得人渔夫",
+      "category": "D",
+      "path": "/markdown/book_7/278_得人渔夫.md"
+    },
+    {
+      "title": "单单敬拜",
+      "category": "D",
+      "path": "/markdown/book_7/279_单单敬拜.md"
+    },
+    {
+      "title": "打开心门",
+      "category": "D",
+      "path": "/markdown/book_7/280_打开心门.md"
+    },
+    {
+      "title": "打美好的仗",
+      "category": "D",
+      "path": "/markdown/book_7/281_打美好的仗.md"
+    },
+    {
+      "title": "道声新年好",
+      "category": "D",
+      "path": "/markdown/book_7/282_道声新年好.md"
+    },
+    {
+      "title": "到爱的国度来",
+      "category": "D",
+      "path": "/markdown/book_7/283_到爱的国度来.md"
+    },
+    {
+      "title": "当圣神在我心",
+      "category": "D",
+      "path": "/markdown/book_7/284_当圣神在我心.md"
+    },
+    {
+      "title": "大雀鸟小雀鸟",
+      "category": "D",
+      "path": "/markdown/book_7/285_大雀鸟小雀鸟.md"
+    },
+    {
+      "title": "当我踏上这条道路",
+      "category": "D",
+      "path": "/markdown/book_7/286_当我踏上这条道路.md"
+    },
+    {
+      "title": "对兄弟做就是对我做",
+      "category": "D",
+      "path": "/markdown/book_7/287_对兄弟做就是对我做.md"
+    },
+    {
+      "title": "恩曲不休",
+      "category": "E",
+      "path": "/markdown/book_7/288_恩曲不休.md"
+    },
+    {
+      "title": "奉献（二）",
+      "category": "F",
+      "path": "/markdown/book_7/289_奉献（二）.md"
+    },
+    {
+      "title": "服侍歌",
+      "category": "F",
+      "path": "/markdown/book_7/290_服侍歌.md"
+    },
+    {
+      "title": "飞跃彩虹",
+      "category": "F",
+      "path": "/markdown/book_7/291_飞跃彩虹.md"
+    },
+    {
+      "title": "泛爱的真谛",
+      "category": "F",
+      "path": "/markdown/book_7/292_泛爱的真谛.md"
+    },
+    {
+      "title": "风雨中的承诺",
+      "category": "F",
+      "path": "/markdown/book_7/293_风雨中的承诺.md"
+    },
+    {
+      "title": "父母恩情不能忘",
+      "category": "F",
+      "path": "/markdown/book_7/294_父母恩情不能忘.md"
+    },
+    {
+      "title": "福音早日传万邦",
+      "category": "F",
+      "path": "/markdown/book_7/295_福音早日传万邦.md"
+    },
+    {
+      "title": "跟随",
+      "category": "G",
+      "path": "/markdown/book_7/296_跟随.md"
+    },
+    {
+      "title": "感恩的泪",
+      "category": "G",
+      "path": "/markdown/book_7/297_感恩的泪.md"
+    },
+    {
+      "title": "感谢上主",
+      "category": "G",
+      "path": "/markdown/book_7/298_感谢上主.md"
+    },
+    {
+      "title": "给我希望",
+      "category": "G",
+      "path": "/markdown/book_7/299_给我希望.md"
+    },
+    {
+      "title": "光照我心",
+      "category": "G",
+      "path": "/markdown/book_7/300_光照我心.md"
+    },
+    {
+      "title": "跟随耶稣走",
+      "category": "G",
+      "path": "/markdown/book_7/301_跟随耶稣走.md"
+    },
+    {
+      "title": "高唱感恩歌",
+      "category": "G",
+      "path": "/markdown/book_7/302_高唱感恩歌.md"
+    },
+    {
+      "title": "共同兴旺福音",
+      "category": "G",
+      "path": "/markdown/book_7/303_共同兴旺福音.md"
+    },
+    {
+      "title": "好牧人",
+      "category": "H",
+      "path": "/markdown/book_7/304_好牧人.md"
+    },
+    {
+      "title": "荒漠甘泉",
+      "category": "H",
+      "path": "/markdown/book_7/305_荒漠甘泉.md"
+    },
+    {
+      "title": "活水泉",
+      "category": "H",
+      "path": "/markdown/book_7/306_活水泉.md"
+    },
+    {
+      "title": "和平工具",
+      "category": "H",
+      "path": "/markdown/book_7/307_和平工具.md"
+    },
+    {
+      "title": "合而为一",
+      "category": "H",
+      "path": "/markdown/book_7/308_合而为一.md"
+    },
+    {
+      "title": "悔改，悔改",
+      "category": "H",
+      "path": "/markdown/book_7/309_悔改，悔改.md"
+    },
+    {
+      "title": "悔改吧！浪子们",
+      "category": "H",
+      "path": "/markdown/book_7/310_悔改吧！浪子们.md"
+    },
+    {
+      "title": "花叶礼赞",
+      "category": "H",
+      "path": "/markdown/book_7/311_花叶礼赞.md"
+    },
+    {
+      "title": "欢跃",
+      "category": "H",
+      "path": "/markdown/book_7/312_欢跃.md"
+    },
+    {
+      "title": "欢迎欢迎",
+      "category": "H",
+      "path": "/markdown/book_7/313_欢迎欢迎.md"
+    },
+    {
+      "title": "欢呼主耶稣",
+      "category": "H",
+      "path": "/markdown/book_7/314_欢呼主耶稣.md"
+    },
+    {
+      "title": "欢欢喜喜原谅人",
+      "category": "H",
+      "path": "/markdown/book_7/315_欢欢喜喜原谅人.md"
+    },
+    {
+      "title": "回家",
+      "category": "H",
+      "path": "/markdown/book_7/316_回家.md"
+    },
+    {
+      "title": "回首再回首",
+      "category": "H",
+      "path": "/markdown/book_7/317_回首再回首.md"
+    },
+    {
+      "title": "还我誓愿",
+      "category": "H",
+      "path": "/markdown/book_7/318_还我誓愿.md"
+    },
+    {
+      "title": "还是走十字架的路",
+      "category": "H",
+      "path": "/markdown/book_7/319_还是走十字架的路.md"
+    },
+    {
+      "title": "孩子请告诉我",
+      "category": "H",
+      "path": "/markdown/book_7/320_孩子请告诉我.md"
+    },
+    {
+      "title": "孩子，别忘了回家的路",
+      "category": "H",
+      "path": "/markdown/book_7/321_孩子，别忘了回家的路.md"
+    },
+    {
+      "title": "脚步",
+      "category": "J",
+      "path": "/markdown/book_7/322_脚步.md"
+    },
+    {
+      "title": "芥籽心",
+      "category": "J",
+      "path": "/markdown/book_7/323_芥籽心.md"
+    },
+    {
+      "title": "将心给主",
+      "category": "J",
+      "path": "/markdown/book_7/324_将心给主.md"
+    },
+    {
+      "title": "敬拜你在黄昏的时候",
+      "category": "J",
+      "path": "/markdown/book_7/325_敬拜你在黄昏的时候.md"
+    },
+    {
+      "title": "敬拜赞美迎来神同在",
+      "category": "J",
+      "path": "/markdown/book_7/326_敬拜赞美迎来神同在.md"
+    },
+    {
+      "title": "今生跟随主耶稣",
+      "category": "J",
+      "path": "/markdown/book_7/327_今生跟随主耶稣.md"
+    },
+    {
+      "title": "基督的灵魂",
+      "category": "J",
+      "path": "/markdown/book_7/328_基督的灵魂.md"
+    },
+    {
+      "title": "基督的召唤",
+      "category": "J",
+      "path": "/markdown/book_7/329_基督的召唤.md"
+    },
+    {
+      "title": "基督你是葡萄树",
+      "category": "J",
+      "path": "/markdown/book_7/330_基督你是葡萄树.md"
+    },
+    {
+      "title": "教会赞颂",
+      "category": "J",
+      "path": "/markdown/book_7/331_教会赞颂.md"
+    },
+    {
+      "title": "教会弟兄姐妹",
+      "category": "J",
+      "path": "/markdown/book_7/332_教会弟兄姐妹.md"
+    },
+    {
+      "title": "教会是我温暖的家",
+      "category": "J",
+      "path": "/markdown/book_7/333_教会是我温暖的家.md"
+    },
+    {
+      "title": "救主耶稣爱小孩",
+      "category": "J",
+      "path": "/markdown/book_7/334_救主耶稣爱小孩.md"
+    },
+    {
+      "title": "患难中能歌唱",
+      "category": "J",
+      "path": "/markdown/book_7/335_患难中能歌唱.md"
+    },
+    {
+      "title": "靠近主",
+      "category": "K",
+      "path": "/markdown/book_7/336_靠近主.md"
+    },
+    {
+      "title": "渴慕主爱",
+      "category": "K",
+      "path": "/markdown/book_7/337_渴慕主爱.md"
+    },
+    {
+      "title": "苦难中的赞美",
+      "category": "K",
+      "path": "/markdown/book_7/338_苦难中的赞美.md"
+    },
+    {
+      "title": "哭过笑过唱过沉默过",
+      "category": "K",
+      "path": "/markdown/book_7/339_哭过笑过唱过沉默过.md"
+    },
+    {
+      "title": "落叶归根",
+      "category": "L",
+      "path": "/markdown/book_7/340_落叶归根.md"
+    },
+    {
+      "title": "良人和我",
+      "category": "L",
+      "path": "/markdown/book_7/341_良人和我.md"
+    },
+    {
+      "title": "美梦成真",
+      "category": "M",
+      "path": "/markdown/book_7/342_美梦成真.md"
+    },
+    {
+      "title": "美丽的相遇",
+      "category": "M",
+      "path": "/markdown/book_7/343_美丽的相遇.md"
+    },
+    {
+      "title": "明天的路",
+      "category": "M",
+      "path": "/markdown/book_7/344_明天的路.md"
+    },
+    {
+      "title": "每当我想起你",
+      "category": "M",
+      "path": "/markdown/book_7/345_每当我想起你.md"
+    },
+    {
+      "title": "每一天",
+      "category": "M",
+      "path": "/markdown/book_7/346_每一天.md"
+    },
+    {
+      "title": "每一天都需要你的帮助",
+      "category": "M",
+      "path": "/markdown/book_7/347_每一天都需要你的帮助.md"
+    },
+    {
+      "title": "你爱永不变",
+      "category": "N",
+      "path": "/markdown/book_7/348_你爱永不变.md"
+    },
+    {
+      "title": "你在爱就在",
+      "category": "N",
+      "path": "/markdown/book_7/349_你在爱就在.md"
+    },
+    {
+      "title": "你就是耶稣",
+      "category": "N",
+      "path": "/markdown/book_7/350_你就是耶稣.md"
+    },
+    {
+      "title": "你真理的话",
+      "category": "N",
+      "path": "/markdown/book_7/351_你真理的话.md"
+    },
+    {
+      "title": "你是医治的神",
+      "category": "N",
+      "path": "/markdown/book_7/352_你是医治的神.md"
+    },
+    {
+      "title": "你是如此爱我",
+      "category": "N",
+      "path": "/markdown/book_7/353_你是如此爱我.md"
+    },
+    {
+      "title": "你若没有祈祷",
+      "category": "N",
+      "path": "/markdown/book_7/354_你若没有祈祷.md"
+    },
+    {
+      "title": "你遇见主了吗",
+      "category": "N",
+      "path": "/markdown/book_7/355_你遇见主了吗.md"
+    },
+    {
+      "title": "你的恩典不离开",
+      "category": "N",
+      "path": "/markdown/book_7/356_你的恩典不离开.md"
+    },
+    {
+      "title": "你的爱不离不弃",
+      "category": "N",
+      "path": "/markdown/book_7/357_你的爱不离不弃.md"
+    },
+    {
+      "title": "你有多少心里话",
+      "category": "N",
+      "path": "/markdown/book_7/358_你有多少心里话.md"
+    },
+    {
+      "title": "你和别人不一样",
+      "category": "N",
+      "path": "/markdown/book_7/359_你和别人不一样.md"
+    },
+    {
+      "title": "你是全世界的主",
+      "category": "N",
+      "path": "/markdown/book_7/360_你是全世界的主.md"
+    },
+    {
+      "title": "你是否听到呼唤声",
+      "category": "N",
+      "path": "/markdown/book_7/361_你是否听到呼唤声.md"
+    },
+    {
+      "title": "你们应当称谢上主",
+      "category": "N",
+      "path": "/markdown/book_7/362_你们应当称谢上主.md"
+    },
+    {
+      "title": "你是我永远的救主",
+      "category": "N",
+      "path": "/markdown/book_7/363_你是我永远的救主.md"
+    },
+    {
+      "title": "你要知道羊需要牧人",
+      "category": "N",
+      "path": "/markdown/book_7/364_你要知道羊需要牧人.md"
+    },
+    {
+      "title": "那双看不见的手",
+      "category": "N",
+      "path": "/markdown/book_7/365_那双看不见的手.md"
+    },
+    {
+      "title": "祈求",
+      "category": "Q",
+      "path": "/markdown/book_7/366_祈求.md"
+    },
+    {
+      "title": "轻轻听",
+      "category": "Q",
+      "path": "/markdown/book_7/367_轻轻听.md"
+    },
+    {
+      "title": "牵手歌",
+      "category": "Q",
+      "path": "/markdown/book_7/368_牵手歌.md"
+    },
+    {
+      "title": "请差遣我",
+      "category": "Q",
+      "path": "/markdown/book_7/369_请差遣我.md"
+    },
+    {
+      "title": "请大家赞美上主",
+      "category": "Q",
+      "path": "/markdown/book_7/370_请大家赞美上主.md"
+    },
+    {
+      "title": "奇妙救恩",
+      "category": "Q",
+      "path": "/markdown/book_7/371_奇妙救恩.md"
+    },
+    {
+      "title": "奇妙的双手",
+      "category": "Q",
+      "path": "/markdown/book_7/372_奇妙的双手.md"
+    },
+    {
+      "title": "奇妙的创造",
+      "category": "Q",
+      "path": "/markdown/book_7/373_奇妙的创造.md"
+    },
+    {
+      "title": "求主用我",
+      "category": "Q",
+      "path": "/markdown/book_7/374_求主用我.md"
+    },
+    {
+      "title": "求牵我的手",
+      "category": "Q",
+      "path": "/markdown/book_7/375_求牵我的手.md"
+    },
+    {
+      "title": "求主祝福歌",
+      "category": "Q",
+      "path": "/markdown/book_7/376_求主祝福歌.md"
+    },
+    {
+      "title": "求主给我一颗心",
+      "category": "Q",
+      "path": "/markdown/book_7/377_求主给我一颗心.md"
+    },
+    {
+      "title": "求你来到我们中间",
+      "category": "Q",
+      "path": "/markdown/book_7/378_求你来到我们中间.md"
+    },
+    {
+      "title": "若",
+      "category": "R",
+      "path": "/markdown/book_7/379_若.md"
+    },
+    {
+      "title": "让爱传出去",
+      "category": "R",
+      "path": "/markdown/book_7/380_让爱传出去.md"
+    },
+    {
+      "title": "让我们彼此相爱",
+      "category": "R",
+      "path": "/markdown/book_7/381_让我们彼此相爱.md"
+    },
+    {
+      "title": "让地球跟着希望转",
+      "category": "R",
+      "path": "/markdown/book_7/382_让地球跟着希望转.md"
+    },
+    {
+      "title": "如羔羊",
+      "category": "R",
+      "path": "/markdown/book_7/383_如羔羊.md"
+    },
+    {
+      "title": "如鹿渴慕溪水",
+      "category": "R",
+      "path": "/markdown/book_7/384_如鹿渴慕溪水.md"
+    },
+    {
+      "title": "人生",
+      "category": "R",
+      "path": "/markdown/book_7/385_人生.md"
+    },
+    {
+      "title": "人生之舟",
+      "category": "R",
+      "path": "/markdown/book_7/386_人生之舟.md"
+    },
+    {
+      "title": "人人都应当知道",
+      "category": "R",
+      "path": "/markdown/book_7/387_人人都应当知道.md"
+    },
+    {
+      "title": "人的生命只有一次",
+      "category": "R",
+      "path": "/markdown/book_7/388_人的生命只有一次.md"
+    },
+    {
+      "title": "人生在世如一叶孤舟",
+      "category": "R",
+      "path": "/markdown/book_7/389_人生在世如一叶孤舟.md"
+    },
+    {
+      "title": "日光之下",
+      "category": "R",
+      "path": "/markdown/book_7/390_日光之下.md"
+    },
+    {
+      "title": "日子一天一天的过去",
+      "category": "R",
+      "path": "/markdown/book_7/391_日子一天一天的过去.md"
+    },
+    {
+      "title": "荣耀的十字架",
+      "category": "R",
+      "path": "/markdown/book_7/392_荣耀的十字架.md"
+    },
+    {
+      "title": "撒种",
+      "category": "S",
+      "path": "/markdown/book_7/393_撒种.md"
+    },
+    {
+      "title": "撒网的人",
+      "category": "S",
+      "path": "/markdown/book_7/394_撒网的人.md"
+    },
+    {
+      "title": "是谁",
+      "category": "S",
+      "path": "/markdown/book_7/395_是谁.md"
+    },
+    {
+      "title": "是这份爱",
+      "category": "S",
+      "path": "/markdown/book_7/396_是这份爱.md"
+    },
+    {
+      "title": "使命",
+      "category": "S",
+      "path": "/markdown/book_7/397_使命.md"
+    },
+    {
+      "title": "使命啊！不能放下",
+      "category": "S",
+      "path": "/markdown/book_7/398_使命啊！不能放下.md"
+    },
+    {
+      "title": "十字架的爱",
+      "category": "S",
+      "path": "/markdown/book_7/399_十字架的爱.md"
+    },
+    {
+      "title": "十架凄美的爱",
+      "category": "S",
+      "path": "/markdown/book_7/400_十架凄美的爱.md"
+    },
+    {
+      "title": "十字架是我的荣耀",
+      "category": "S",
+      "path": "/markdown/book_7/401_十字架是我的荣耀.md"
+    },
+    {
+      "title": "生命的河",
+      "category": "S",
+      "path": "/markdown/book_7/402_生命的河.md"
+    },
+    {
+      "title": "生命的执著",
+      "category": "S",
+      "path": "/markdown/book_7/403_生命的执著.md"
+    },
+    {
+      "title": "施比受更为有福",
+      "category": "S",
+      "path": "/markdown/book_7/404_施比受更为有福.md"
+    },
+    {
+      "title": "舍得",
+      "category": "S",
+      "path": "/markdown/book_7/405_舍得.md"
+    },
+    {
+      "title": "圣爱歌",
+      "category": "S",
+      "path": "/markdown/book_7/406_圣爱歌.md"
+    },
+    {
+      "title": "圣洁宝座",
+      "category": "S",
+      "path": "/markdown/book_7/407_圣洁宝座.md"
+    },
+    {
+      "title": "谁愿服侍主",
+      "category": "S",
+      "path": "/markdown/book_7/408_谁愿服侍主.md"
+    },
+    {
+      "title": "思念主恩典",
+      "category": "S",
+      "path": "/markdown/book_7/409_思念主恩典.md"
+    },
+    {
+      "title": "稍微不警醒",
+      "category": "S",
+      "path": "/markdown/book_7/410_稍微不警醒.md"
+    },
+    {
+      "title": "深深爱你",
+      "category": "S",
+      "path": "/markdown/book_7/411_深深爱你.md"
+    },
+    {
+      "title": "神父,祝福你",
+      "category": "S",
+      "path": "/markdown/book_7/412_神父,祝福你.md"
+    },
+    {
+      "title": "上主就是爱",
+      "category": "S",
+      "path": "/markdown/book_7/413_上主就是爱.md"
+    },
+    {
+      "title": "上主你当受赞美",
+      "category": "S",
+      "path": "/markdown/book_7/414_上主你当受赞美.md"
+    },
+    {
+      "title": "世界不是我们的家",
+      "category": "S",
+      "path": "/markdown/book_7/415_世界不是我们的家.md"
+    },
+    {
+      "title": "天父花园",
+      "category": "T",
+      "path": "/markdown/book_7/416_天父花园.md"
+    },
+    {
+      "title": "天堂门票",
+      "category": "T",
+      "path": "/markdown/book_7/417_天堂门票.md"
+    },
+    {
+      "title": "天上的光",
+      "category": "T",
+      "path": "/markdown/book_7/418_天上的光.md"
+    },
+    {
+      "title": "天父在等我",
+      "category": "T",
+      "path": "/markdown/book_7/419_天父在等我.md"
+    },
+    {
+      "title": "天主在哪里",
+      "category": "T",
+      "path": "/markdown/book_7/420_天主在哪里.md"
+    },
+    {
+      "title": "天主我爱你",
+      "category": "T",
+      "path": "/markdown/book_7/421_天主我爱你.md"
+    },
+    {
+      "title": "天主造了天",
+      "category": "T",
+      "path": "/markdown/book_7/422_天主造了天.md"
+    },
+    {
+      "title": "天堂真快乐",
+      "category": "T",
+      "path": "/markdown/book_7/423_天堂真快乐.md"
+    },
+    {
+      "title": "同路人",
+      "category": "T",
+      "path": "/markdown/book_7/424_同路人.md"
+    },
+    {
+      "title": "同工歌",
+      "category": "T",
+      "path": "/markdown/book_7/425_同工歌.md"
+    },
+    {
+      "title": "他是主",
+      "category": "T",
+      "path": "/markdown/book_7/426_他是主.md"
+    },
+    {
+      "title": "他诚然担当",
+      "category": "T",
+      "path": "/markdown/book_7/427_他诚然担当.md"
+    },
+    {
+      "title": "田野里的庄稼",
+      "category": "T",
+      "path": "/markdown/book_7/428_田野里的庄稼.md"
+    },
+    {
+      "title": "踏上福音的路程",
+      "category": "T",
+      "path": "/markdown/book_7/429_踏上福音的路程.md"
+    },
+    {
+      "title": "团结起来力量大",
+      "category": "T",
+      "path": "/markdown/book_7/430_团结起来力量大.md"
+    },
+    {
+      "title": "我相信",
+      "category": "W",
+      "path": "/markdown/book_7/431_我相信.md"
+    },
+    {
+      "title": "我要回家",
+      "category": "W",
+      "path": "/markdown/book_7/432_我要回家.md"
+    },
+    {
+      "title": "我要倒空",
+      "category": "W",
+      "path": "/markdown/book_7/433_我要倒空.md"
+    },
+    {
+      "title": "我不在乎",
+      "category": "W",
+      "path": "/markdown/book_7/434_我不在乎.md"
+    },
+    {
+      "title": "我心焦急",
+      "category": "W",
+      "path": "/markdown/book_7/435_我心焦急.md"
+    },
+    {
+      "title": "我的心愿",
+      "category": "W",
+      "path": "/markdown/book_7/436_我的心愿.md"
+    },
+    {
+      "title": "我们呼求",
+      "category": "W",
+      "path": "/markdown/book_7/437_我们呼求.md"
+    },
+    {
+      "title": "我美丽的家",
+      "category": "W",
+      "path": "/markdown/book_7/438_我美丽的家.md"
+    },
+    {
+      "title": "我最爱的你",
+      "category": "W",
+      "path": "/markdown/book_7/439_我最爱的你.md"
+    },
+    {
+      "title": "我们要称谢",
+      "category": "W",
+      "path": "/markdown/book_7/440_我们要称谢.md"
+    },
+    {
+      "title": "我要能看见",
+      "category": "W",
+      "path": "/markdown/book_7/441_我要能看见.md"
+    },
+    {
+      "title": "我只仰望你",
+      "category": "W",
+      "path": "/markdown/book_7/442_我只仰望你.md"
+    },
+    {
+      "title": "我的灵渴慕你",
+      "category": "W",
+      "path": "/markdown/book_7/443_我的灵渴慕你.md"
+    },
+    {
+      "title": "我来到你面前",
+      "category": "W",
+      "path": "/markdown/book_7/444_我来到你面前.md"
+    },
+    {
+      "title": "我呼号你的名",
+      "category": "W",
+      "path": "/markdown/book_7/445_我呼号你的名.md"
+    },
+    {
+      "title": "我是一个小孩",
+      "category": "W",
+      "path": "/markdown/book_7/446_我是一个小孩.md"
+    },
+    {
+      "title": "我没有灰心过",
+      "category": "W",
+      "path": "/markdown/book_7/447_我没有灰心过.md"
+    },
+    {
+      "title": "我只要主耶稣",
+      "category": "W",
+      "path": "/markdown/book_7/448_我只要主耶稣.md"
+    },
+    {
+      "title": "我们是一家人",
+      "category": "W",
+      "path": "/markdown/book_7/449_我们是一家人.md"
+    },
+    {
+      "title": "我在这里赞美",
+      "category": "W",
+      "path": "/markdown/book_7/450_我在这里赞美.md"
+    },
+    {
+      "title": "我必与你同在",
+      "category": "W",
+      "path": "/markdown/book_7/451_我必与你同在.md"
+    },
+    {
+      "title": "我们应当听从他",
+      "category": "W",
+      "path": "/markdown/book_7/452_我们应当听从他.md"
+    },
+    {
+      "title": "我不为明天忧虑",
+      "category": "W",
+      "path": "/markdown/book_7/453_我不为明天忧虑.md"
+    },
+    {
+      "title": "我的灵魂渴慕你",
+      "category": "W",
+      "path": "/markdown/book_7/454_我的灵魂渴慕你.md"
+    },
+    {
+      "title": "我的神我渴慕你",
+      "category": "W",
+      "path": "/markdown/book_7/455_我的神我渴慕你.md"
+    },
+    {
+      "title": "我的神我敬拜你",
+      "category": "W",
+      "path": "/markdown/book_7/456_我的神我敬拜你.md"
+    },
+    {
+      "title": "我的心歌弹咏唱",
+      "category": "W",
+      "path": "/markdown/book_7/457_我的心歌弹咏唱.md"
+    },
+    {
+      "title": "我的心全属于你",
+      "category": "W",
+      "path": "/markdown/book_7/458_我的心全属于你.md"
+    },
+    {
+      "title": "我是浪花主是爱",
+      "category": "W",
+      "path": "/markdown/book_7/459_我是浪花主是爱.md"
+    },
+    {
+      "title": "我心有主就知足",
+      "category": "W",
+      "path": "/markdown/book_7/460_我心有主就知足.md"
+    },
+    {
+      "title": "我要常常依靠主",
+      "category": "W",
+      "path": "/markdown/book_7/461_我要常常依靠主.md"
+    },
+    {
+      "title": "我今天为你祝福",
+      "category": "W",
+      "path": "/markdown/book_7/462_我今天为你祝福.md"
+    },
+    {
+      "title": "我知谁掌管明天",
+      "category": "W",
+      "path": "/markdown/book_7/463_我知谁掌管明天.md"
+    },
+    {
+      "title": "我们该感谢天主",
+      "category": "W",
+      "path": "/markdown/book_7/464_我们该感谢天主.md"
+    },
+    {
+      "title": "我有一位好天父",
+      "category": "W",
+      "path": "/markdown/book_7/465_我有一位好天父.md"
+    },
+    {
+      "title": "我们都是好朋友",
+      "category": "W",
+      "path": "/markdown/book_7/466_我们都是好朋友.md"
+    },
+    {
+      "title": "我是主的小绵羊",
+      "category": "W",
+      "path": "/markdown/book_7/467_我是主的小绵羊.md"
+    },
+    {
+      "title": "我愿做个好小孩",
+      "category": "W",
+      "path": "/markdown/book_7/468_我愿做个好小孩.md"
+    },
+    {
+      "title": "我愿做个小传道人",
+      "category": "W",
+      "path": "/markdown/book_7/469_我愿做个小传道人.md"
+    },
+    {
+      "title": "我的心早已随你去",
+      "category": "W",
+      "path": "/markdown/book_7/470_我的心早已随你去.md"
+    },
+    {
+      "title": "我要唱那最美的歌",
+      "category": "W",
+      "path": "/markdown/book_7/471_我要唱那最美的歌.md"
+    },
+    {
+      "title": "我们是群快乐的小孩",
+      "category": "W",
+      "path": "/markdown/book_7/472_我们是群快乐的小孩.md"
+    },
+    {
+      "title": "唯有耶稣",
+      "category": "W",
+      "path": "/markdown/book_7/473_唯有耶稣.md"
+    },
+    {
+      "title": "唯有主坐在高天",
+      "category": "W",
+      "path": "/markdown/book_7/474_唯有主坐在高天.md"
+    },
+    {
+      "title": "唯有主耶稣的宝血",
+      "category": "W",
+      "path": "/markdown/book_7/475_唯有主耶稣的宝血.md"
+    },
+    {
+      "title": "问心",
+      "category": "W",
+      "path": "/markdown/book_7/476_问心.md"
+    },
+    {
+      "title": "为福音一生无悔",
+      "category": "W",
+      "path": "/markdown/book_7/477_为福音一生无悔.md"
+    },
+    {
+      "title": "小草",
+      "category": "X",
+      "path": "/markdown/book_7/478_小草.md"
+    },
+    {
+      "title": "小小的梦想",
+      "category": "X",
+      "path": "/markdown/book_7/479_小小的梦想.md"
+    },
+    {
+      "title": "小羊在等待",
+      "category": "X",
+      "path": "/markdown/book_7/480_小羊在等待.md"
+    },
+    {
+      "title": "小羊呼声一片",
+      "category": "X",
+      "path": "/markdown/book_7/481_小羊呼声一片.md"
+    },
+    {
+      "title": "谢主颂Te Deum",
+      "category": "X",
+      "path": "/markdown/book_7/482_谢主颂Te_Deum.md"
+    },
+    {
+      "title": "新希望",
+      "category": "X",
+      "path": "/markdown/book_7/483_新希望.md"
+    },
+    {
+      "title": "新生命",
+      "category": "X",
+      "path": "/markdown/book_7/484_新生命.md"
+    },
+    {
+      "title": "新年祝福歌",
+      "category": "X",
+      "path": "/markdown/book_7/485_新年祝福歌.md"
+    },
+    {
+      "title": "心曲",
+      "category": "X",
+      "path": "/markdown/book_7/486_心曲.md"
+    },
+    {
+      "title": "心路(一)",
+      "category": "X",
+      "path": "/markdown/book_7/487_心路(一).md"
+    },
+    {
+      "title": "心路(二)",
+      "category": "X",
+      "path": "/markdown/book_7/488_心路(二).md"
+    },
+    {
+      "title": "心连心",
+      "category": "X",
+      "path": "/markdown/book_7/489_心连心.md"
+    },
+    {
+      "title": "心的归回",
+      "category": "X",
+      "path": "/markdown/book_7/490_心的归回.md"
+    },
+    {
+      "title": "心灵深处的敬拜",
+      "category": "X",
+      "path": "/markdown/book_7/491_心灵深处的敬拜.md"
+    },
+    {
+      "title": "新的亲密",
+      "category": "X",
+      "path": "/markdown/book_7/492_新的亲密.md"
+    },
+    {
+      "title": "想起主的恩典",
+      "category": "X",
+      "path": "/markdown/book_7/493_想起主的恩典.md"
+    },
+    {
+      "title": "寻找",
+      "category": "X",
+      "path": "/markdown/book_7/494_寻找.md"
+    },
+    {
+      "title": "向前走",
+      "category": "X",
+      "path": "/markdown/book_7/495_向前走.md"
+    },
+    {
+      "title": "希望之星",
+      "category": "X",
+      "path": "/markdown/book_7/496_希望之星.md"
+    },
+    {
+      "title": "行善的人",
+      "category": "X",
+      "path": "/markdown/book_7/497_行善的人.md"
+    },
+    {
+      "title": "宣传福音歌",
+      "category": "X",
+      "path": "/markdown/book_7/498_宣传福音歌.md"
+    },
+    {
+      "title": "下雨天的祈祷",
+      "category": "X",
+      "path": "/markdown/book_7/499_下雨天的祈祷.md"
+    },
+    {
+      "title": "兄弟姊妹手牵手",
+      "category": "X",
+      "path": "/markdown/book_7/500_兄弟姊妹手牵手.md"
+    },
+    {
+      "title": "耶稣",
+      "category": "Y",
+      "path": "/markdown/book_7/501_耶稣.md"
+    },
+    {
+      "title": "耶稣是光",
+      "category": "Y",
+      "path": "/markdown/book_7/502_耶稣是光.md"
+    },
+    {
+      "title": "耶稣爱你(一)",
+      "category": "Y",
+      "path": "/markdown/book_7/503_耶稣爱你(一).md"
+    },
+    {
+      "title": "耶稣爱你(二)",
+      "category": "Y",
+      "path": "/markdown/book_7/504_耶稣爱你(二).md"
+    },
+    {
+      "title": "耶稣!耶稣! (一)",
+      "category": "Y",
+      "path": "/markdown/book_7/505_耶稣!耶稣!_(一).md"
+    },
+    {
+      "title": "耶稣!耶稣! (二)",
+      "category": "Y",
+      "path": "/markdown/book_7/506_耶稣!耶稣!_(二).md"
+    },
+    {
+      "title": "耶稣我爱你",
+      "category": "Y",
+      "path": "/markdown/book_7/507_耶稣我爱你.md"
+    },
+    {
+      "title": "耶稣的小羊",
+      "category": "Y",
+      "path": "/markdown/book_7/508_耶稣的小羊.md"
+    },
+    {
+      "title": "耶稣给你平安",
+      "category": "Y",
+      "path": "/markdown/book_7/509_耶稣给你平安.md"
+    },
+    {
+      "title": "耶稣基督快再来",
+      "category": "Y",
+      "path": "/markdown/book_7/510_耶稣基督快再来.md"
+    },
+    {
+      "title": "耶稣捐躯已赎身",
+      "category": "Y",
+      "path": "/markdown/book_7/511_耶稣捐躯已赎身.md"
+    },
+    {
+      "title": "耶稣喜爱小孩子",
+      "category": "Y",
+      "path": "/markdown/book_7/512_耶稣喜爱小孩子.md"
+    },
+    {
+      "title": "耶稣耶稣我爱你（一）",
+      "category": "Y",
+      "path": "/markdown/book_7/513_耶稣耶稣我爱你（一）.md"
+    },
+    {
+      "title": "耶稣耶稣我爱你（二）",
+      "category": "Y",
+      "path": "/markdown/book_7/514_耶稣耶稣我爱你（二）.md"
+    },
+    {
+      "title": "耶稣真是好牧人",
+      "category": "Y",
+      "path": "/markdown/book_7/515_耶稣真是好牧人.md"
+    },
+    {
+      "title": "耶稣基督是生命源",
+      "category": "Y",
+      "path": "/markdown/book_7/516_耶稣基督是生命源.md"
+    },
+    {
+      "title": "耶稣拍拍我的肩膀",
+      "category": "Y",
+      "path": "/markdown/book_7/517_耶稣拍拍我的肩膀.md"
+    },
+    {
+      "title": "耶稣全人类的希望",
+      "category": "Y",
+      "path": "/markdown/book_7/518_耶稣全人类的希望.md"
+    },
+    {
+      "title": "耶稣同在就是天堂",
+      "category": "Y",
+      "path": "/markdown/book_7/519_耶稣同在就是天堂.md"
+    },
+    {
+      "title": "耶稣耶稣我要赞美你",
+      "category": "Y",
+      "path": "/markdown/book_7/520_耶稣耶稣我要赞美你.md"
+    },
+    {
+      "title": "野地的花",
+      "category": "Y",
+      "path": "/markdown/book_7/521_野地的花.md"
+    },
+    {
+      "title": "一叶归帆",
+      "category": "Y",
+      "path": "/markdown/book_7/522_一叶归帆.md"
+    },
+    {
+      "title": "一生爱你",
+      "category": "Y",
+      "path": "/markdown/book_7/523_一生爱你.md"
+    },
+    {
+      "title": "一生跟随你",
+      "category": "Y",
+      "path": "/markdown/book_7/524_一生跟随你.md"
+    },
+    {
+      "title": "一年的路程",
+      "category": "Y",
+      "path": "/markdown/book_7/525_一年的路程.md"
+    },
+    {
+      "title": "一起赞美敬拜",
+      "category": "Y",
+      "path": "/markdown/book_7/526_一起赞美敬拜.md"
+    },
+    {
+      "title": "一个奇妙的故事",
+      "category": "Y",
+      "path": "/markdown/book_7/527_一个奇妙的故事.md"
+    },
+    {
+      "title": "一生一世爱着你",
+      "category": "Y",
+      "path": "/markdown/book_7/528_一生一世爱着你.md"
+    },
+    {
+      "title": "一同跟主走天涯",
+      "category": "Y",
+      "path": "/markdown/book_7/529_一同跟主走天涯.md"
+    },
+    {
+      "title": "一人不能完成大使命",
+      "category": "Y",
+      "path": "/markdown/book_7/530_一人不能完成大使命.md"
+    },
+    {
+      "title": "远行",
+      "category": "Y",
+      "path": "/markdown/book_7/531_远行.md"
+    },
+    {
+      "title": "有一条路",
+      "category": "Y",
+      "path": "/markdown/book_7/532_有一条路.md"
+    },
+    {
+      "title": "有主当知足",
+      "category": "Y",
+      "path": "/markdown/book_7/533_有主当知足.md"
+    },
+    {
+      "title": "有一新诫命",
+      "category": "Y",
+      "path": "/markdown/book_7/534_有一新诫命.md"
+    },
+    {
+      "title": "有一恩手带领我",
+      "category": "Y",
+      "path": "/markdown/book_7/535_有一恩手带领我.md"
+    },
+    {
+      "title": "有你我就有亮光",
+      "category": "Y",
+      "path": "/markdown/book_7/536_有你我就有亮光.md"
+    },
+    {
+      "title": "永生的路",
+      "category": "Y",
+      "path": "/markdown/book_7/537_永生的路.md"
+    },
+    {
+      "title": "永远向前",
+      "category": "Y",
+      "path": "/markdown/book_7/538_永远向前.md"
+    },
+    {
+      "title": "永远的小孩",
+      "category": "Y",
+      "path": "/markdown/book_7/539_永远的小孩.md"
+    },
+    {
+      "title": "永远爱慕侍奉他",
+      "category": "Y",
+      "path": "/markdown/book_7/540_永远爱慕侍奉他.md"
+    },
+    {
+      "title": "依靠耶稣圣名",
+      "category": "Y",
+      "path": "/markdown/book_7/541_依靠耶稣圣名.md"
+    },
+    {
+      "title": "羊啊羊",
+      "category": "Y",
+      "path": "/markdown/book_7/542_羊啊羊.md"
+    },
+    {
+      "title": "仰望天主",
+      "category": "Y",
+      "path": "/markdown/book_7/543_仰望天主.md"
+    },
+    {
+      "title": "云上太阳",
+      "category": "Y",
+      "path": "/markdown/book_7/544_云上太阳.md"
+    },
+    {
+      "title": "压伤的芦苇",
+      "category": "Y",
+      "path": "/markdown/book_7/545_压伤的芦苇.md"
+    },
+    {
+      "title": "与基督同行",
+      "category": "Y",
+      "path": "/markdown/book_7/546_与基督同行.md"
+    },
+    {
+      "title": "愿光荣归于父",
+      "category": "Y",
+      "path": "/markdown/book_7/547_愿光荣归于父.md"
+    },
+    {
+      "title": "愿作一粒种子",
+      "category": "Y",
+      "path": "/markdown/book_7/548_愿作一粒种子.md"
+    },
+    {
+      "title": "因你与我同行",
+      "category": "Y",
+      "path": "/markdown/book_7/549_因你与我同行.md"
+    },
+    {
+      "title": "因你在我的生命中走过",
+      "category": "Y",
+      "path": "/markdown/book_7/550_因你在我的生命中走过.md"
+    },
+    {
+      "title": "主若是",
+      "category": "Z",
+      "path": "/markdown/book_7/551_主若是.md"
+    },
+    {
+      "title": "主恩典",
+      "category": "Z",
+      "path": "/markdown/book_7/552_主恩典.md"
+    },
+    {
+      "title": "主慈颂",
+      "category": "Z",
+      "path": "/markdown/book_7/553_主慈颂.md"
+    },
+    {
+      "title": "主前忏悔",
+      "category": "Z",
+      "path": "/markdown/book_7/554_主前忏悔.md"
+    },
+    {
+      "title": "主的召唤",
+      "category": "Z",
+      "path": "/markdown/book_7/555_主的召唤.md"
+    },
+    {
+      "title": "主告诉我",
+      "category": "Z",
+      "path": "/markdown/book_7/556_主告诉我.md"
+    },
+    {
+      "title": "主的大爱",
+      "category": "Z",
+      "path": "/markdown/book_7/557_主的大爱.md"
+    },
+    {
+      "title": "主我跟你走",
+      "category": "Z",
+      "path": "/markdown/book_7/558_主我跟你走.md"
+    },
+    {
+      "title": "主爱无可比",
+      "category": "Z",
+      "path": "/markdown/book_7/559_主爱无可比.md"
+    },
+    {
+      "title": "主为寻浪子",
+      "category": "Z",
+      "path": "/markdown/book_7/560_主为寻浪子.md"
+    },
+    {
+      "title": "主爱降下来",
+      "category": "Z",
+      "path": "/markdown/book_7/561_主爱降下来.md"
+    },
+    {
+      "title": "主是我力量",
+      "category": "Z",
+      "path": "/markdown/book_7/562_主是我力量.md"
+    },
+    {
+      "title": "主啊你最美",
+      "category": "Z",
+      "path": "/markdown/book_7/563_主啊你最美.md"
+    },
+    {
+      "title": "主我敬拜你",
+      "category": "Z",
+      "path": "/markdown/book_7/564_主我敬拜你.md"
+    },
+    {
+      "title": "主啊！差遣我",
+      "category": "Z",
+      "path": "/markdown/book_7/565_主啊！差遣我.md"
+    },
+    {
+      "title": "主，请告诉我",
+      "category": "Z",
+      "path": "/markdown/book_7/566_主，请告诉我.md"
+    },
+    {
+      "title": "主，我邀请你",
+      "category": "Z",
+      "path": "/markdown/book_7/567_主，我邀请你.md"
+    },
+    {
+      "title": "主我要遇见你",
+      "category": "Z",
+      "path": "/markdown/book_7/568_主我要遇见你.md"
+    },
+    {
+      "title": "主我心说爱你",
+      "category": "Z",
+      "path": "/markdown/book_7/569_主我心说爱你.md"
+    },
+    {
+      "title": "主耶稣我爱你",
+      "category": "Z",
+      "path": "/markdown/book_7/570_主耶稣我爱你.md"
+    },
+    {
+      "title": "主啊我算什么",
+      "category": "Z",
+      "path": "/markdown/book_7/571_主啊我算什么.md"
+    },
+    {
+      "title": "主永活在我心",
+      "category": "Z",
+      "path": "/markdown/book_7/572_主永活在我心.md"
+    },
+    {
+      "title": "主啊我在这里",
+      "category": "Z",
+      "path": "/markdown/book_7/573_主啊我在这里.md"
+    },
+    {
+      "title": "主啊！我赞美你",
+      "category": "Z",
+      "path": "/markdown/book_7/574_主啊！我赞美你.md"
+    },
+    {
+      "title": "主，我们需要你",
+      "category": "Z",
+      "path": "/markdown/book_7/575_主，我们需要你.md"
+    },
+    {
+      "title": "主帮助我更爱你",
+      "category": "Z",
+      "path": "/markdown/book_7/576_主帮助我更爱你.md"
+    },
+    {
+      "title": "主我想你的时候",
+      "category": "Z",
+      "path": "/markdown/book_7/577_主我想你的时候.md"
+    },
+    {
+      "title": "主爱我必爱到底",
+      "category": "Z",
+      "path": "/markdown/book_7/578_主爱我必爱到底.md"
+    },
+    {
+      "title": "主我想问一问你",
+      "category": "Z",
+      "path": "/markdown/book_7/579_主我想问一问你.md"
+    },
+    {
+      "title": "主你若究查罪孽",
+      "category": "Z",
+      "path": "/markdown/book_7/580_主你若究查罪孽.md"
+    },
+    {
+      "title": "主是我生命的光",
+      "category": "Z",
+      "path": "/markdown/book_7/581_主是我生命的光.md"
+    },
+    {
+      "title": "主的恩典够我用",
+      "category": "Z",
+      "path": "/markdown/book_7/582_主的恩典够我用.md"
+    },
+    {
+      "title": "主当我心完全归你",
+      "category": "Z",
+      "path": "/markdown/book_7/583_主当我心完全归你.md"
+    },
+    {
+      "title": "主我们深深的知道",
+      "category": "Z",
+      "path": "/markdown/book_7/584_主我们深深的知道.md"
+    },
+    {
+      "title": "主如一颗明亮晨星",
+      "category": "Z",
+      "path": "/markdown/book_7/585_主如一颗明亮晨星.md"
+    },
+    {
+      "title": "主是我密友良伴",
+      "category": "Z",
+      "path": "/markdown/book_7/586_主是我密友良伴.md"
+    },
+    {
+      "title": "主爱把我们紧相连",
+      "category": "Z",
+      "path": "/markdown/book_7/587_主爱把我们紧相连.md"
+    },
+    {
+      "title": "主所爱的人在哪里",
+      "category": "Z",
+      "path": "/markdown/book_7/588_主所爱的人在哪里.md"
+    },
+    {
+      "title": "主啊我愿作你的门徒",
+      "category": "Z",
+      "path": "/markdown/book_7/589_主啊我愿作你的门徒.md"
+    },
+    {
+      "title": "主啊！求你不要丢弃我",
+      "category": "Z",
+      "path": "/markdown/book_7/590_主啊！求你不要丢弃我.md"
+    },
+    {
+      "title": "主啊,愿你拉着我们的手",
+      "category": "Z",
+      "path": "/markdown/book_7/591_主啊,愿你拉着我们的手.md"
+    },
+    {
+      "title": "主啊你就是大海中的船",
+      "category": "Z",
+      "path": "/markdown/book_7/592_主啊你就是大海中的船.md"
+    },
+    {
+      "title": "在主爱中",
+      "category": "Z",
+      "path": "/markdown/book_7/593_在主爱中.md"
+    },
+    {
+      "title": "在黑夜",
+      "category": "Z",
+      "path": "/markdown/book_7/594_在黑夜.md"
+    },
+    {
+      "title": "在神前省察",
+      "category": "Z",
+      "path": "/markdown/book_7/595_在神前省察.md"
+    },
+    {
+      "title": "在外的日子",
+      "category": "Z",
+      "path": "/markdown/book_7/596_在外的日子.md"
+    },
+    {
+      "title": "在主的殿宇里",
+      "category": "Z",
+      "path": "/markdown/book_7/597_在主的殿宇里.md"
+    },
+    {
+      "title": "赞美主",
+      "category": "Z",
+      "path": "/markdown/book_7/598_赞美主.md"
+    },
+    {
+      "title": "赞美之泉",
+      "category": "Z",
+      "path": "/markdown/book_7/599_赞美之泉.md"
+    },
+    {
+      "title": "赞美耶稣",
+      "category": "Z",
+      "path": "/markdown/book_7/600_赞美耶稣.md"
+    },
+    {
+      "title": "赞美歌声不息",
+      "category": "Z",
+      "path": "/markdown/book_7/601_赞美歌声不息.md"
+    },
+    {
+      "title": "赞美中遇见你",
+      "category": "Z",
+      "path": "/markdown/book_7/602_赞美中遇见你.md"
+    },
+    {
+      "title": "赞美主啊肋路亚",
+      "category": "Z",
+      "path": "/markdown/book_7/603_赞美主啊肋路亚.md"
+    },
+    {
+      "title": "这世界非我家",
+      "category": "Z",
+      "path": "/markdown/book_7/604_这世界非我家.md"
+    },
+    {
+      "title": "这里有神的同在",
+      "category": "Z",
+      "path": "/markdown/book_7/605_这里有神的同在.md"
+    },
+    {
+      "title": "这一生最美的祝福",
+      "category": "Z",
+      "path": "/markdown/book_7/606_这一生最美的祝福.md"
+    },
+    {
+      "title": "这条路我们一起走",
+      "category": "Z",
+      "path": "/markdown/book_7/607_这条路我们一起走.md"
+    },
+    {
+      "title": "这世界虽然美丽非常",
+      "category": "Z",
+      "path": "/markdown/book_7/608_这世界虽然美丽非常.md"
+    },
+    {
+      "title": "走出心牢",
+      "category": "Z",
+      "path": "/markdown/book_7/609_走出心牢.md"
+    },
+    {
+      "title": "走向光明",
+      "category": "Z",
+      "path": "/markdown/book_7/610_走向光明.md"
+    },
+    {
+      "title": "走在你光中",
+      "category": "Z",
+      "path": "/markdown/book_7/611_走在你光中.md"
+    },
+    {
+      "title": "走进新的一天",
+      "category": "Z",
+      "path": "/markdown/book_7/612_走进新的一天.md"
+    },
+    {
+      "title": "中国心",
+      "category": "Z",
+      "path": "/markdown/book_7/613_中国心.md"
+    },
+    {
+      "title": "中国的早晨五点钟",
+      "category": "Z",
+      "path": "/markdown/book_7/614_中国的早晨五点钟.md"
+    },
+    {
+      "title": "追寻",
+      "category": "Z",
+      "path": "/markdown/book_7/615_追寻.md"
+    },
+    {
+      "title": "找你",
+      "category": "Z",
+      "path": "/markdown/book_7/616_找你.md"
+    },
+    {
+      "title": "足印",
+      "category": "Z",
+      "path": "/markdown/book_7/617_足印.md"
+    },
+    {
+      "title": "真福八端",
+      "category": "Z",
+      "path": "/markdown/book_7/618_真福八端.md"
+    },
+    {
+      "title": "真爱的激励",
+      "category": "Z",
+      "path": "/markdown/book_7/619_真爱的激励.md"
+    },
+    {
+      "title": "庄稼已熟",
+      "category": "Z",
+      "path": "/markdown/book_7/620_庄稼已熟.md"
+    },
+    {
+      "title": "做新造的人",
+      "category": "Z",
+      "path": "/markdown/book_7/621_做新造的人.md"
+    },
+    {
+      "title": "最好的老师",
+      "category": "Z",
+      "path": "/markdown/book_7/622_最好的老师.md"
+    },
+    {
+      "title": "最知心的朋友",
+      "category": "Z",
+      "path": "/markdown/book_7/623_最知心的朋友.md"
+    },
+    {
+      "title": "住在你里面",
+      "category": "Z",
+      "path": "/markdown/book_7/624_住在你里面.md"
+    },
+    {
+      "title": "只愿得着你",
+      "category": "Z",
+      "path": "/markdown/book_7/625_只愿得着你.md"
+    },
+    {
+      "title": "至圣之所",
+      "category": "Z",
+      "path": "/markdown/book_7/626_至圣之所.md"
+    },
+    {
+      "title": "自从我认识了主",
+      "category": "Z",
+      "path": "/markdown/book_7/627_自从我认识了主.md"
+    },
+    {
+      "title": "坐在宝座上圣洁羔羊",
+      "category": "Z",
+      "path": "/markdown/book_7/628_坐在宝座上圣洁羔羊.md"
+    }
+  ]
+}

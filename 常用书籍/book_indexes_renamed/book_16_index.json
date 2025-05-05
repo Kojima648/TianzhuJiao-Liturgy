@@ -1,0 +1,299 @@
+{
+  "book_id": "book_16",
+  "title": "礼仪手册",
+  "update": "2024-05-31",
+  "summary": "礼仪(Liturgia)是基督的工程，也是教会的行动，礼仪实现并显示教会是天主和人类在基督内共融的有形标记。礼仪是教会行动所趋向的顶峰，同时也是教会一切力量的泉源",
+  "cover": "imgs/1669163932351.jpg@!w400h560",
+  "sections": [
+    {
+      "title": "儿童的洗礼",
+      "category": "常用礼仪",
+      "path": "/markdown/book_16/001_儿童的洗礼.md"
+    },
+    {
+      "title": "成人入教仪式",
+      "category": "常用礼仪",
+      "path": "/markdown/book_16/002_成人入教仪式.md"
+    },
+    {
+      "title": "送圣体仪式",
+      "category": "常用礼仪",
+      "path": "/markdown/book_16/003_送圣体仪式.md"
+    },
+    {
+      "title": "婚礼弥撒",
+      "category": "常用礼仪",
+      "path": "/markdown/book_16/004_婚礼弥撒.md"
+    },
+    {
+      "title": "弥撒外婚姻仪式",
+      "category": "常用礼仪",
+      "path": "/markdown/book_16/005_弥撒外婚姻仪式.md"
+    },
+    {
+      "title": "婚姻补礼仪式",
+      "category": "常用礼仪",
+      "path": "/markdown/book_16/006_婚姻补礼仪式.md"
+    },
+    {
+      "title": "病人傅油圣事",
+      "category": "常用礼仪",
+      "path": "/markdown/book_16/007_病人傅油圣事.md"
+    },
+    {
+      "title": "入殓礼",
+      "category": "常用礼仪",
+      "path": "/markdown/book_16/008_入殓礼.md"
+    },
+    {
+      "title": "守夜礼",
+      "category": "常用礼仪",
+      "path": "/markdown/book_16/009_守夜礼.md"
+    },
+    {
+      "title": "告别礼",
+      "category": "常用礼仪",
+      "path": "/markdown/book_16/010_告别礼.md"
+    },
+    {
+      "title": "安葬礼",
+      "category": "常用礼仪",
+      "path": "/markdown/book_16/011_安葬礼.md"
+    },
+    {
+      "title": "祷词选登",
+      "category": "常用礼仪",
+      "path": "/markdown/book_16/012_祷词选登.md"
+    },
+    {
+      "title": "圣体柜祝福礼",
+      "category": "圣物祝福礼",
+      "path": "/markdown/book_16/013_圣体柜祝福礼.md"
+    },
+    {
+      "title": "神功架(赦罪亭)祝福礼",
+      "category": "圣物祝福礼",
+      "path": "/markdown/book_16/014_神功架(赦罪亭)祝福礼.md"
+    },
+    {
+      "title": "圣爵、圣盘祝福礼",
+      "category": "圣物祝福礼",
+      "path": "/markdown/book_16/015_圣爵、圣盘祝福礼.md"
+    },
+    {
+      "title": "祭服、礼仪等用品祝福礼",
+      "category": "圣物祝福礼",
+      "path": "/markdown/book_16/016_祭服、礼仪等用品祝福礼.md"
+    },
+    {
+      "title": "钟(教堂用)祝福礼",
+      "category": "圣物祝福礼",
+      "path": "/markdown/book_16/017_钟(教堂用)祝福礼.md"
+    },
+    {
+      "title": "耶稣圣像祝福礼",
+      "category": "圣物祝福礼",
+      "path": "/markdown/book_16/018_耶稣圣像祝福礼.md"
+    },
+    {
+      "title": "十字苦像祝福礼",
+      "category": "圣物祝福礼",
+      "path": "/markdown/book_16/019_十字苦像祝福礼.md"
+    },
+    {
+      "title": "圣母像祝福礼",
+      "category": "圣物祝福礼",
+      "path": "/markdown/book_16/020_圣母像祝福礼.md"
+    },
+    {
+      "title": "圣人圣女像祝福礼",
+      "category": "圣物祝福礼",
+      "path": "/markdown/book_16/021_圣人圣女像祝福礼.md"
+    },
+    {
+      "title": "十字、圣牌祝福礼",
+      "category": "圣物祝福礼",
+      "path": "/markdown/book_16/022_十字、圣牌祝福礼.md"
+    },
+    {
+      "title": "玫瑰念珠祝福礼",
+      "category": "圣物祝福礼",
+      "path": "/markdown/book_16/023_玫瑰念珠祝福礼.md"
+    },
+    {
+      "title": "食物祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/024_食物祝福礼.md"
+    },
+    {
+      "title": "籽种祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/025_籽种祝福礼.md"
+    },
+    {
+      "title": "蜡烛祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/026_蜡烛祝福礼.md"
+    },
+    {
+      "title": "喉咙祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/027_喉咙祝福礼.md"
+    },
+    {
+      "title": "建房场地祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/028_建房场地祝福礼.md"
+    },
+    {
+      "title": "新房奠基礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/029_新房奠基礼.md"
+    },
+    {
+      "title": "新房祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/030_新房祝福礼.md"
+    },
+    {
+      "title": "家庭祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/031_家庭祝福礼.md"
+    },
+    {
+      "title": "儿童祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/032_儿童祝福礼.md"
+    },
+    {
+      "title": "待产妇女祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/033_待产妇女祝福礼.md"
+    },
+    {
+      "title": "产后妇女祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/034_产后妇女祝福礼.md"
+    },
+    {
+      "title": "老年人祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/035_老年人祝福礼.md"
+    },
+    {
+      "title": "病人祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/036_病人祝福礼.md"
+    },
+    {
+      "title": "朝圣出发前祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/037_朝圣出发前祝福礼.md"
+    },
+    {
+      "title": "朝圣结束祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/038_朝圣结束祝福礼.md"
+    },
+    {
+      "title": "交通工具祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/039_交通工具祝福礼.md"
+    },
+    {
+      "title": "劳动工具祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/040_劳动工具祝福礼.md"
+    },
+    {
+      "title": "牲畜祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/041_牲畜祝福礼.md"
+    },
+    {
+      "title": "蜜蜂祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/042_蜜蜂祝福礼.md"
+    },
+    {
+      "title": "牲畜圈祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/043_牲畜圈祝福礼.md"
+    },
+    {
+      "title": "农田、庄稼祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/044_农田、庄稼祝福礼.md"
+    },
+    {
+      "title": "工厂、商店、工地祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/045_工厂、商店、工地祝福礼.md"
+    },
+    {
+      "title": "印刷厂祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/046_印刷厂祝福礼.md"
+    },
+    {
+      "title": "医院(诊所)祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/047_医院(诊所)祝福礼.md"
+    },
+    {
+      "title": "新医院诊所",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/048_新医院诊所.md"
+    },
+    {
+      "title": "发电机(厂)祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/049_发电机(厂)祝福礼.md"
+    },
+    {
+      "title": "砖瓦(石灰)窑祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/050_砖瓦(石灰)窑祝福礼.md"
+    },
+    {
+      "title": "科技设备祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/051_科技设备祝福礼.md"
+    },
+    {
+      "title": "水泉、水井祝福仪式",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/052_水泉、水井祝福仪式.md"
+    },
+    {
+      "title": "通用多种物品祝福礼",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/053_通用多种物品祝福礼.md"
+    },
+    {
+      "title": "谢恩祝福仪式",
+      "category": "教友生活祝福礼",
+      "path": "/markdown/book_16/054_谢恩祝福仪式.md"
+    },
+    {
+      "title": "早课",
+      "category": "司铎个人祈祷经文",
+      "path": "/markdown/book_16/055_早课.md"
+    },
+    {
+      "title": "晚课",
+      "category": "司铎个人祈祷经文",
+      "path": "/markdown/book_16/056_晚课.md"
+    },
+    {
+      "title": "弥撒前预备经",
+      "category": "司铎个人祈祷经文",
+      "path": "/markdown/book_16/057_弥撒前预备经.md"
+    },
+    {
+      "title": "弥撒后感谢经",
+      "category": "司铎个人祈祷经文",
+      "path": "/markdown/book_16/058_弥撒后感谢经.md"
+    }
+  ]
+}
