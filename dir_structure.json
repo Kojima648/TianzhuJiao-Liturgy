@@ -1,0 +1,211 @@
+{
+  "name": "TianzhuJiao-Liturgy",
+  "type": "dir",
+  "children": [
+    {
+      "name": ".git",
+      "type": "dir",
+      "children": [
+        {
+          "name": "COMMITMESSAGE",
+          "type": "file"
+        },
+        {
+          "name": "COMMIT_EDITMSG",
+          "type": "file"
+        },
+        {
+          "name": "HEAD",
+          "type": "file"
+        },
+        {
+          "name": "config",
+          "type": "file"
+        },
+        {
+          "name": "description",
+          "type": "file"
+        },
+        {
+          "name": "hooks",
+          "type": "dir",
+          "children": []
+        },
+        {
+          "name": "index",
+          "type": "file"
+        },
+        {
+          "name": "info",
+          "type": "dir",
+          "children": []
+        },
+        {
+          "name": "logs",
+          "type": "dir",
+          "children": []
+        },
+        {
+          "name": "objects",
+          "type": "dir",
+          "children": []
+        },
+        {
+          "name": "packed-refs",
+          "type": "file"
+        },
+        {
+          "name": "refs",
+          "type": "dir",
+          "children": []
+        },
+        {
+          "name": "tgitchangelist",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": ".gitattributes",
+      "type": "file"
+    },
+    {
+      "name": ".gitignore",
+      "type": "file"
+    },
+    {
+      "name": ".vscode",
+      "type": "dir",
+      "children": [
+        {
+          "name": "launch.json",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Bible-Sigao",
+      "type": "dir",
+      "children": [
+        {
+          "name": "catalog.json",
+          "type": "file"
+        },
+        {
+          "name": "chapter_count_report.txt",
+          "type": "file"
+        },
+        {
+          "name": "index.json",
+          "type": "file"
+        },
+        {
+          "name": "index.md",
+          "type": "file"
+        },
+        {
+          "name": "新约",
+          "type": "dir",
+          "children": []
+        },
+        {
+          "name": "旧约",
+          "type": "dir",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "LICENSE",
+      "type": "file"
+    },
+    {
+      "name": "README.md",
+      "type": "file"
+    },
+    {
+      "name": "dir_structure.json",
+      "type": "file"
+    },
+    {
+      "name": "list_dir_structure.py",
+      "type": "file"
+    },
+    {
+      "name": "其他配置表",
+      "type": "dir",
+      "children": [
+        {
+          "name": "festival_articles.json",
+          "type": "file"
+        },
+        {
+          "name": "festival_config.json",
+          "type": "file"
+        },
+        {
+          "name": "preview.html",
+          "type": "file"
+        },
+        {
+          "name": "完整节日配置_2025.json",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "常用书籍",
+      "type": "dir",
+      "children": [
+        {
+          "name": ".vscode",
+          "type": "dir",
+          "children": []
+        },
+        {
+          "name": "book_index.json",
+          "type": "file"
+        },
+        {
+          "name": "book_indexes_renamed",
+          "type": "dir",
+          "children": []
+        },
+        {
+          "name": "books_list.json",
+          "type": "file"
+        },
+        {
+          "name": "goclone.exe",
+          "type": "file"
+        },
+        {
+          "name": "renamed_md",
+          "type": "dir",
+          "children": []
+        },
+        {
+          "name": "scripts",
+          "type": "dir",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "教会节日和圣人传记",
+      "type": "dir",
+      "children": [
+        {
+          "name": "MonthlyJSON",
+          "type": "dir",
+          "children": []
+        },
+        {
+          "name": "整理后的图片",
+          "type": "dir",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
