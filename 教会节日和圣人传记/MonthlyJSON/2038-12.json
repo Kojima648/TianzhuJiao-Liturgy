@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "year": 2038,
+    "month": 12,
+    "table_id": 203812,
+    "special_festival_note": ""
+  },
+  "data": [
+    {
+      "主历": "01",
+      "礼仪": "紫",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1120101\">圣安利日(诺雷主教 St. Eligius -660)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1120102\">真福爱德门•江本(Bd. Edmund Campion)</a>\n</li>\n<li>\n                                                                                    将临期第一周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "02",
+      "礼仪": "紫",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1120201\">圣女彼彼亚纳(童贞殉道 St. Bibiana)</a>\n</li>\n<li>\n                                                                                    将临期第一周(星期四)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "03",
+      "礼仪": "白",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1120301\">圣方济各•沙勿略(St. Francis Xavier)</a>\n</li>\n<li>\n                                                                                    将临期第一周(星期五)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "04",
+      "礼仪": "紫",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1120401\">圣若望•达玛森(圣师 St. John Damascene)</a>\n</li>\n<li>\n                                                                                    将临期第一周(星期六)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "05",
+      "礼仪": "紫",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n                                                                                    将临期第二主日                                                                                </li>\n<li>\n<a href=\"/festival/saint/?scode=1120501\">圣撒巴(院长 St. Sabas -532)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "06",
+      "礼仪": "紫",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1120601\">圣尼各老(米辣主教 St. Nicholas of Myra)</a>\n</li>\n<li>\n                                                                                    将临期第二周(星期一)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "07",
+      "礼仪": "白",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1120701\">圣盎博罗削(米兰主教圣师 St. Ambrose 340-397)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1120702\">圣女若撒法•罗撒洛(童贞仁慈圣母女修会创办人 St. Josepha ROssello 1811-1880)</a>\n</li>\n<li>\n                                                                                    将临期第二周(星期二)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "08",
+      "礼仪": "白",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1120801\">圣母无原罪始胎(The Immaculate Conception of the Blessed Virgin Mary)</a>\n</li>\n<li>\n                                                                                    将临期第二周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "09",
+      "礼仪": "紫",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1120901\">圣伯多禄•傅雷(圣母奥斯定女修会副会祖 St. Peter Fourier 1565-1640)</a>\n</li>\n<li>\n                                                                                    将临期第二周(星期四)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "10",
+      "礼仪": "白",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1121001\">洛雷托圣母</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1121002\">圣米济亚德(教宗殉道 St. Miltiades -314)</a>\n</li>\n<li>\n                                                                                    将临期第二周(星期五)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "11",
+      "礼仪": "紫",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1121101\">圣达玛稣一世(圣达生 St. Damasus 366-384)</a>\n</li>\n<li>\n                                                                                    将临期第二周(星期六)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "12",
+      "礼仪": "玫",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n                                                                                    将临期第三主日                                                                                </li>\n<li>\n<a href=\"/festival/saint/?scode=1121201\">瓜达卢佩圣母(Our Lady of Guadalupe)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1121202\">圣妇若翰纳•方济加•尚达尔(圣母往见会创办人 St. Jane Frances de Chantal -1641)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "13",
+      "礼仪": "红",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1121301\">圣女路济亚(圣路琪童贞殉道 St. Lucy)</a>\n</li>\n<li>\n                                                                                    将临期第三周(星期一)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "14",
+      "礼仪": "白",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1121401\">圣若望“由十字架者”(圣师 St. John of the Cross)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1121402\">圣史比利廷(德米杜主教 St. Spiridion)</a>\n</li>\n<li>\n                                                                                    将临期第三周(星期二)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "15",
+      "礼仪": "紫",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1121501\">圣万南修•福多诺(波蒂亚主教 St. Venantius Fotunatus)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1121502\">圣女尼诺(童贞 St. Nino)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1121503\">圣女玛利亚•罗撒(童贞伯来西亚仁爱婢女会创办人 St. Mary di Rosa 1813-1855)</a>\n</li>\n<li>\n                                                                                    将临期第三周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "16",
+      "礼仪": "紫",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1121601\">圣妇亚德莱(St. Adelaide)</a>\n</li>\n<li>\n                                                                                    将临期第三周(星期四)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "17",
+      "礼仪": "紫",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1121701\">圣拉匝禄(St. Lazarus)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1121703\">将临期 十二月十七日</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1121702\">圣妇奥林比亚(St. Olympias 361-408)</a>\n</li>\n<li>\n                                                                                    将临期第三周(星期五)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "18",
+      "礼仪": "紫",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1121803\">将临期 十二月十八日</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1121801\">圣威纳巴(院长 St. Wunibald)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1121802\">圣斯多米(院长 St. Sturmi)</a>\n</li>\n<li>\n                                                                                    将临期第三周(星期六)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "19",
+      "礼仪": "紫",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n                                                                                    将临期第四主日                                                                                </li>\n<li>\n<a href=\"/festival/saint/?scode=1121902\">将临期 十二月十九日</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1121901\">圣南米修及其他殉道烈士(Ss. Nemesius and other Martyrs)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "20",
+      "礼仪": "紫",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1122002\">将临期 十二月二十日</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1122001\">圣多明我•西洛(院长 St. Dominic of Silos -1073)</a>\n</li>\n<li>\n                                                                                    将临期第四周(星期一)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "21",
+      "礼仪": "紫",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1122102\">将临期 十二月二十一日</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1122101\">圣伯多禄•加尼削(圣师 St. Peter Canisius)</a>\n</li>\n<li>\n                                                                                    将临期第四周(星期二)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "22",
+      "礼仪": "紫",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1122202\">将临期 十二月二十二日</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1122201\">圣女方济加(童贞 圣心传教女修会创办人 St. Frances Xavier Cabrini 1850-1917)</a>\n</li>\n<li>\n                                                                                    将临期第四周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "23",
+      "礼仪": "紫",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1122302\">将临期 十二月二十三日</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1122301\">圣若望根地(St. John of Kanti 1297-1473)</a>\n</li>\n<li>\n                                                                                    将临期第四周(星期四)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "24",
+      "礼仪": "白",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1122401\">耶稣圣诞节望日</a>\n</li>\n<li>\n                                                                                    将临期第四周(星期五)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "25",
+      "礼仪": "白",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1122501\">耶稣圣诞(The Birthday of Our Lord Jesus Christ)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "26",
+      "礼仪": "白",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=8\">圣家节</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1122601\">圣斯德望(首位殉道 St. Stephen -34)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1122602\">真福味增济亚(童贞 无玷圣母修会创办人 Bd. Vincentia Lopez 1847-1890)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "27",
+      "礼仪": "白",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1122701\">圣若望(宗徒兼圣史 St. John the Evangelist -100)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "28",
+      "礼仪": "红",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1122801\">诸圣婴孩(The Holy Innocents)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "29",
+      "礼仪": "白",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1122902\">圣诞节庆期第五日</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1122901\">圣多默•贝凯(St. Thomas Becket)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "30",
+      "礼仪": "白",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1123002\">圣诞节庆期第六日</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1123001\">圣撒比诺等殉道者(Ss. Sabinus and his Companions)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "31",
+      "礼仪": "白",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1123103\">圣诞节庆期第七日</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1123101\">圣西尔物斯德肋(思维 St. Silvestes 314-335)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1123102\">圣妇幼梅肋尼亚(St. Melania the Younger -439)</a>\n</li>\n</ul>"
+    }
+  ]
+}

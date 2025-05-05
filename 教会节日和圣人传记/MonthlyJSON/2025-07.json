@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "year": 2025,
+    "month": 7,
+    "table_id": 202507,
+    "special_festival_note": ""
+  },
+  "data": [
+    {
+      "主历": "01",
+      "礼仪": "绿",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1070101\">圣珈尔(克来门主教 St. Gall)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1070102\">真福多默•李斯斐(Bd. Thomas Maxfield)</a>\n</li>\n<li>\n                                                                                    常年期第十三周(星期二)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "02",
+      "礼仪": "绿",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1070201\">圣博策稣、圣玛谛酿(殉道 Ss. Processus and Martinian)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1070202\">圣奥多(彭伯主教 St. Otto)</a>\n</li>\n<li>\n                                                                                    常年期第十三周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "03",
+      "礼仪": "红",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1070301\">圣多默(宗徒 St. Thomas the Apostle)</a>\n</li>\n<li>\n                                                                                    常年期第十三周(星期四)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "04",
+      "礼仪": "白",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1070401\">圣妇依撒伯尔(St. Elizabeth of Portuga)</a>\n</li>\n<li>\n                                                                                    常年期第十三周(星期五)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "05",
+      "礼仪": "绿",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1070501\">圣安多尼•匝加利(圣保禄神职修会创办人 St. Antony Zaccaria)</a>\n</li>\n<li>\n                                                                                    常年期第十三周(星期六)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "06",
+      "礼仪": "绿",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n                                                                                    常年期第十四主日                                                                                </li>\n<li>\n<a href=\"/festival/saint/?scode=1070601\">高兰蒂•玛利亚(童贞殉道 St. Maria Goretti)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "07",
+      "礼仪": "绿",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1070701\">圣庞德诺(St. Pantaenus)</a>\n</li>\n<li>\n                                                                                    常年期第十四周(星期一)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "08",
+      "礼仪": "绿",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1070801\">圣艾士波和卓娅(殉道 Ss. Hesperus and Zoa-135)</a>\n</li>\n<li>\n                                                                                    常年期第十四周(星期二)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "09",
+      "礼仪": "红",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1070901\">中华诸圣及真福(The Martyrs of China)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1070902\">圣尼各老•比克及其它殉道烈士(Ss. Nicholas Pieck and his Companions)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1070903\">圣女万罗尼加•祁拉尼(童贞 St. Veronica Giuliani)</a>\n</li>\n<li>\n                                                                                    常年期第十四周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "10",
+      "礼仪": "绿",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1071001\">七位圣昆仲(殉道 the Seven Brothers and St. Feheity)</a>\n</li>\n<li>\n                                                                                    常年期第十四周(星期四)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "11",
+      "礼仪": "白",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1071101\">圣本笃(院长 St. Benedict 480-547)</a>\n</li>\n<li>\n                                                                                    常年期第十四周(星期五)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "12",
+      "礼仪": "绿",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1071201\">越南殉道烈士(the Martyrs of Indo-China, I)</a>\n</li>\n<li>\n                                                                                    常年期第十四周(星期六)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "13",
+      "礼仪": "绿",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n                                                                                    常年期第十五主日                                                                                </li>\n<li>\n<a href=\"/festival/saint/?scode=1071301\">圣亨利二世(St. Henry II)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1071302\">圣息拉(St. Silas)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1071303\">圣欧杰(迦太基主教 St. Eugenius-505)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "14",
+      "礼仪": "绿",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1071401\">圣加弥禄(灵医会创办人 St. Camillus De Lellis)</a>\n</li>\n<li>\n                                                                                    常年期第十五周(星期一)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "15",
+      "礼仪": "白",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1071501\">圣文都辣(St. Bonaventure)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1071502\">圣亚大纳削(那不勒斯主教 St. Athanasius)</a>\n</li>\n<li>\n                                                                                    常年期第十五周(星期二)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "16",
+      "礼仪": "白",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1071601\">加尔默罗圣母(The Commemoration of Our Lady of Mount Carmel)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1071602\">圣女玛利亚•玛达肋纳•巴斯德(St. Mary Magdalem Postel)</a>\n</li>\n<li>\n                                                                                    常年期第十五周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "17",
+      "礼仪": "绿",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1071701\">圣亚肋叔(St. Alexius)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1071702\">圣女玛珊利纳(St. Marcellina)</a>\n</li>\n<li>\n                                                                                    常年期第十五周(星期四)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "18",
+      "礼仪": "绿",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1071801\">圣威德廉(乌德莱主教殉道 St. Frederick)</a>\n</li>\n<li>\n                                                                                    常年期第十五周(星期五)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "19",
+      "礼仪": "绿",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1071901\">圣女儒斯大、圣妇卢菲娜(Ss. Justa and Rufina)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1071902\">圣亚赛热(St. Arsenius the Great-450)</a>\n</li>\n<li>\n                                                                                    常年期第十五周(星期六)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "20",
+      "礼仪": "绿",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n                                                                                    常年期第十六主日                                                                                </li>\n<li>\n<a href=\"/festival/saint/?scode=1072001\">圣厄利亚(耶路撒冷宗主教)和圣法来文(Ss. Elias and Flavian)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1072002\">圣若瑟•巴尔撒巴(St. Joseph Barsabas)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "21",
+      "礼仪": "绿",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1072101\">圣炳德西(St. Laurence of Brindisi)</a>\n</li>\n<li>\n                                                                                    常年期第十六周(星期一)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "22",
+      "礼仪": "白",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1072201\">圣女玛利亚•玛达肋纳(圣徳莲 St. Mary Magdalen)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1072202\">圣若瑟•巴勒斯坦(St. Joseph of Palestine)</a>\n</li>\n<li>\n                                                                                    常年期第十六周(星期二)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "23",
+      "礼仪": "绿",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1072301\">圣妇彼利日大(救世主会创始人 St. Bridget)</a>\n</li>\n<li>\n                                                                                    常年期第十六周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "24",
+      "礼仪": "绿",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1072401\">圣方济各•沙拉纳(St. Francis Salasno)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1072402\">圣女克利斯蒂娜(童贞 St. Christina the Astonishing)</a>\n</li>\n<li>\n                                                                                    常年期第十六周(星期四)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "25",
+      "礼仪": "红",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1072501\">圣长雅各伯宗徒(St. James the Greater)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1072502\">圣基多福(殉道 St. Christopher)</a>\n</li>\n<li>\n                                                                                    常年期第十六周(星期五)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "26",
+      "礼仪": "白",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1072601\">圣妇亚纳及若亚敬(St. Anne &amp; St. Joachim)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1072602\">圣女亚加比大日(童贞路物仁爱女修会副会祖 St. Bartholomea Capitanio-1833)</a>\n</li>\n<li>\n                                                                                    常年期第十六周(星期六)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "27",
+      "礼仪": "绿",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n                                                                                    常年期第十七主日                                                                                </li>\n<li>\n<a href=\"/festival/saint/?scode=1072701\">圣依诺增爵一世(教宗 St. Innocent I)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1072702\">圣庞大良(殉道 St. Pantaleon)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "28",
+      "礼仪": "绿",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1072801\">真福亚尔丰索(童贞 Bd. Alphonsa Muttathupadathu 1910-1946)</a>\n</li>\n<li>\n                                                                                    常年期第十七周(星期一)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "29",
+      "礼仪": "白",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1072901\">圣玛尔大、圣玛利亚及圣拉匝禄(St. Martha, Mary and Lazarus)</a>\n</li>\n<li>\n                                                                                    常年期第十七周(星期二)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "30",
+      "礼仪": "绿",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1073001\">圣伯多禄金言(辣未纳总主教圣师 St. Peter Chrysologus)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1073002\">真福伯多禄•玛格里诺(Bd. Peter of Mogliano)</a>\n</li>\n<li>\n                                                                                    常年期第十七周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "31",
+      "礼仪": "白",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1073101\">圣依纳爵•罗耀拉(耶稣会会祖圣纳爵 St. Ignatius of Loyola)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1073102\">真福儒斯定(尼洛波利主教 Bd. Justin de Jacobis)</a>\n</li>\n<li>\n                                                                                    常年期第十七周(星期四)                                                                                </li>\n</ul>"
+    }
+  ]
+}

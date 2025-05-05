@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "year": 2033,
+    "month": 10,
+    "table_id": 203310,
+    "special_festival_note": "玫瑰月"
+  },
+  "data": [
+    {
+      "主历": "01",
+      "礼仪": "白",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1100101\">圣女婴孩耶稣德肋撒(St. Terese of Licieux)</a>\n</li>\n<li>\n                                                                                    常年期第二十六周(星期六)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "02",
+      "礼仪": "绿",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n                                                                                    常年期第二十七主日                                                                                </li>\n<li>\n<a href=\"/festival/saint/?scode=1100201\">护守天使(The Guardian Angels)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "03",
+      "礼仪": "绿",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1100301\">依华昆仲(殉道 The Two Ewalds -695)</a>\n</li>\n<li>\n                                                                                    常年期第二十七周(星期一)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "04",
+      "礼仪": "白",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1100401\">圣五伤方济各(St. Francis Assisi)</a>\n</li>\n<li>\n                                                                                    常年期第二十七周(星期二)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "05",
+      "礼仪": "白",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1100501\">圣女傅天娜(童贞 St. Faustina)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1100502\">圣布拉祺多(殉道 St. Placid)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1100503\">圣女福辣(St. Flora of Beaulien)</a>\n</li>\n<li>\n                                                                                    常年期第二十七周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "06",
+      "礼仪": "绿",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1100601\">圣勃路诺(加多森会创办人 St. Bruno)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1100602\">圣女玛利亚•方济加(童贞 St. Mary Francesd Naples)</a>\n</li>\n<li>\n                                                                                    常年期第二十七周(星期四)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "07",
+      "礼仪": "白",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1100701\">玫瑰圣母节(Our Lady's Rosary)</a>\n</li>\n<li>\n                                                                                    常年期第二十七周(星期五)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "08",
+      "礼仪": "绿",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1100801\">圣塞尔久、圣伯古斯(殉道 Ss. Sergius and Bacchus)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1100802\">圣女白兰佳(St. Pelagia the Penitent)</a>\n</li>\n<li>\n                                                                                    常年期第二十七周(星期六)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "09",
+      "礼仪": "绿",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n                                                                                    常年期第二十八主日                                                                                </li>\n<li>\n<a href=\"/festival/saint/?scode=1100901\">圣德尼斯(巴黎主教)、圣路帝古、圣爱留德路(殉道 Ss. Denis, Rusticus &amp; Eleutherius)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1100902\">圣若望•良纳弟(天主之母会会祖 St. John Leonardi 1543-1609)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "10",
+      "礼仪": "绿",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1101001\">圣方济各•玻尔日亚(St. Francis Borgia)</a>\n</li>\n<li>\n                                                                                    常年期第二十八周(星期一)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "11",
+      "礼仪": "绿",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1101102\">圣若望二十三世(教宗 St. John XXIII)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1101101\">圣加尼斯(院长 St. Canice)</a>\n</li>\n<li>\n                                                                                    常年期第二十八周(星期二)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "12",
+      "礼仪": "绿",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1101201\">圣威弗烈(约克主教 St. Wilfrid 709)</a>\n</li>\n<li>\n                                                                                    常年期第二十八周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "13",
+      "礼仪": "绿",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1101301\">圣爱德华(St. Edward Confessor 1004-1066)</a>\n</li>\n<li>\n                                                                                    常年期第二十八周(星期四)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "14",
+      "礼仪": "绿",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1101401\">圣加利斯督(教宗殉道 St. Callistus)</a>\n</li>\n<li>\n                                                                                    常年期第二十八周(星期五)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "15",
+      "礼仪": "白",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1101501\">圣女大德肋撒(童贞 加尔默罗修会改革者 St. Teresa of Avila)</a>\n</li>\n<li>\n                                                                                    常年期第二十八周(星期六)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "16",
+      "礼仪": "绿",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n                                                                                    常年期第二十九主日                                                                                </li>\n<li>\n<a href=\"/festival/saint/?scode=1101601\">圣妇赫德维(St. Hedwig)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1101602\">圣女玛加利大(童贞 St. Margaret Mary)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "17",
+      "礼仪": "红",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1101701\">圣依纳爵•安提约基亚(主教殉道 St. Ignatius of Antioch)</a>\n</li>\n<li>\n                                                                                    常年期第二十九周(星期一)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "18",
+      "礼仪": "红",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1101801\">圣史路加(St. Luke)</a>\n</li>\n<li>\n                                                                                    常年期第二十九周(星期二)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "19",
+      "礼仪": "绿",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1101901\">圣伯多禄•亚刚大辣(St. Peter of Alcantara)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1101902\">北美洲殉道烈士(The Martyrs of North America)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1101903\">圣十字保禄(苦难会会祖 St. Paul of the Cross 1694-1775)</a>\n</li>\n<li>\n                                                                                    常年期第二十九周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "20",
+      "礼仪": "绿",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1102001\">圣女贝蒂拉(童贞 St. Bertilla Boscardin)</a>\n</li>\n<li>\n                                                                                    常年期第二十九周(星期四)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "21",
+      "礼仪": "绿",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1102101\">圣依拉良(St. Hilarion)</a>\n</li>\n<li>\n                                                                                    常年期第二十九周(星期五)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "22",
+      "礼仪": "白",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1102201\">圣若望·保禄二世(教宗 St. John Paul II)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1102202\">真福弟茂德•奇嘉多(Bd. Timothy Giocarde 1896-1948)</a>\n</li>\n<li>\n                                                                                    常年期第二十九周(星期六)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "23",
+      "礼仪": "绿",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=13\">普世传教节</a>\n</li>\n<li>\n                                                                                    常年期第三十主日                                                                                </li>\n<li>\n<a href=\"/festival/saint/?scode=1102301\">圣若望•贾必昌(St. John of Capistrano)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "24",
+      "礼仪": "绿",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1102401\">圣安多尼•加烈(古巴总主教圣母无玷圣心传教会创办人 St. Antony Claret)</a>\n</li>\n<li>\n                                                                                    常年期第三十周(星期一)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "25",
+      "礼仪": "绿",
+      "星期": "二",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1102501\">圣克利斯品、圣克利斯毕(殉道 Ss. Crispin and Crispinian)</a>\n</li>\n<li>\n                                                                                    常年期第三十周(星期二)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "26",
+      "礼仪": "绿",
+      "星期": "三",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1102601\">圣厄瓦理斯多(教宗殉道 St. Evaristus)</a>\n</li>\n<li>\n                                                                                    常年期第三十周(星期三)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "27",
+      "礼仪": "绿",
+      "星期": "四",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1102701\">圣福门舒(亚克松主教 St. Frumentius 330-380)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1102702\">真福费列尼(Bd. Contardo Ferrini)</a>\n</li>\n<li>\n                                                                                    常年期第三十周(星期四)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "28",
+      "礼仪": "红",
+      "星期": "五",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1102801\">圣西满、圣达陡(宗徒 Ss. Simon and Jude)</a>\n</li>\n<li>\n                                                                                    常年期第三十周(星期五)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "29",
+      "礼仪": "绿",
+      "星期": "六",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1102901\">圣南西苏(耶路撒冷主教 St. Narcissus of Jerusalem -215)</a>\n</li>\n<li>\n                                                                                    常年期第三十周(星期六)                                                                                </li>\n</ul>"
+    },
+    {
+      "主历": "30",
+      "礼仪": "绿",
+      "星期": "日",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n                                                                                    常年期第三十一主日                                                                                </li>\n<li>\n<a href=\"/festival/saint/?scode=1103001\">圣玛塞洛(殉道 St. Marcellus the Cenlurion)</a>\n</li>\n<li>\n<a href=\"/festival/saint/?scode=1103002\">真福安日洛(Bd. Angeto of Acri)</a>\n</li>\n</ul>"
+    },
+    {
+      "主历": "31",
+      "礼仪": "绿",
+      "星期": "一",
+      "节日": "<ul class=\"list-unstyled text-start mb-0\">\n<li>\n<a href=\"/festival/saint/?scode=1103101\">圣亚方沙•罗德利(St. Alphonsus Rodriguez)</a>\n</li>\n<li>\n                                                                                    常年期第三十一周(星期一)                                                                                </li>\n</ul>"
+    }
+  ]
+}
